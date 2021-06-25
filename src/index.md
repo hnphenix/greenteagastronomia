@@ -5,7 +5,7 @@ callToAction:
     actionTitle: Quem Somos
     actionBody: Somos uma empresa concessionária de alimentos e bebidas atuando desde dezembro de 2003 no Clube Naval-Piraquê, na Lagoa Rodrigo de Freitas.
     action: Conheça-nos melhor
-    actionLink: quem_somos.html
+    actionLink: quem-somos.html
 cardsAction:
     - card:
         title: Galeria
