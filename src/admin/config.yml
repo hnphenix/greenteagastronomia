@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/img"
+  
+collections:
+  - name: "paginas"
+    label: "Páginas"
+    files:
+      - label: "Sugestão"
+        name: "sugestao"
+        file: "src/menus/sugestao.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Corpo", name: "body", widget: "markdown" }
+      - label: "Cardápio"
+        name: "cardapio"
+        file: "src/menus/cardapio.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Corpo", name: "body", widget: "markdown" }
+      - label: "Carta de Vinhos"
+        name: "carta-de-vinhos"
+        file: "src/menus/carta-de-vinhos.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Corpo", name: "body", widget: "markdown" }

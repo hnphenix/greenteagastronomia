@@ -1,0 +1,34 @@
+{% extends "./base.njk" %}
+
+{% block content %}
+    {% if collections.menu_special !== undefined %}
+    {% for menu in collections.menu_special %}
+    <article>
+        <div class="box_special">
+            <h2 class="title">{{ menu.data.title | safe }}</h2>
+            {{ menu._templateContent | safe }}
+        </div>
+    </article>
+    {% endfor %}
+    {% endif %}
+
+    {% if collections.menus !== undefined %}
+    <article>
+    {% for menu in collections.menus %}
+        <a href="#{{ menu.data.page.fileSlug | safe }}" class="btn btn--inverse">{{ menu.data.title | safe }}</a>
+    {% endfor %}
+    </article>
+    {% endif %}
+
+    {% if collections.menus !== undefined %}
+    {% for menu in collections.menus %}
+    <article>
+        <div class="box">
+            <h2 class="box__title" id="{{ menu.data.page.fileSlug | safe }}">{{ menu.data.title | safe }}</h2>
+
+            {{ menu._templateContent | safe }}
+        </div>
+    </article>
+    {% endfor %}
+    {% endif %}
+{% endblock %}

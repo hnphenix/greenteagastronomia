@@ -1,0 +1,27 @@
+{% extends "./base.njk" %}
+{% block content %}
+    <article>
+        <div class="box">
+            <h2 class="box__title">{{ callToAction.actionTitle | safe }}</h2>
+            <p class="box__text">
+                {{ callToAction.actionBody | safe }}
+            </p>
+            <a href="{{ callToAction.actionLink | url }}" class="btn btn--box">{{ callToAction.action | safe }}</a>
+        </div>
+    </article>
+    <article class="multi">
+        <h2 class="title">{{ title | safe }}</h2>
+
+        {% for card in cardsAction %}
+        {% if card.card.img !== undefined %}
+        <div class="card">
+            <a href="{{ card.card.link | safe }}" class="card__action"><img src="/img/{{ card.card.img | safe }}" alt="{{ card.card.title | safe }}" class="card__img"/></a>
+        </div>
+        {% else %}
+        <div class="card card--decorator">
+            <a href="{{ card.card.link | safe }}" class="card__action">{{ card.card.title | safe }}</a>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </article>
+{% endblock %}

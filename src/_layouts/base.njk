@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ meta.lang }}">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{{ meta.title }}</title>
+		<meta name="description" content="{{ meta.description }}">
+		<meta name="keywords" content="{{ meta.keywords }}">
+		<meta name="author" content="{{ meta.author.name }}">
+
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="{{ meta.title }}">
+		<meta property="og:title" content="{{ meta.title }}">
+		<meta property="og:description" content="{{ meta.description }}">
+		<meta property="og:locale" content="{{ meta.locale }}">
+		<meta property="og:image" content="/img/{{ meta.logo }}" />
+
+		<link rel="icon" href="/img/favicon.ico" type="image/ico" />
+        <link rel="apple-touch-icon" href="/img/favicon.ico" />
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" />
+
+		<link rel="stylesheet" href="/css/styles.css?v={% version %}" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+	</head>
+	<body id="top">
+        <header>
+            <nav class="nav">
+                <h1 class="logo">
+                    <a href="/" class="logo__action">
+                        <img src="/img/{{ meta.logo }}" alt="{{ meta.title }}" class="logo__image" />
+                    </a>
+                </h1>
+
+                {% set navPages = collections.all | eleventyNavigation %}
+                <ul class="nav__list">
+                    {%- for entry in navPages %}
+                    <li class="nav__item {% if entry.url == page.url %}active{% endif %}">
+                        <a href="{{ entry.url | url }}" class="nav__action">{{ entry.title }}</a>
+                    </li>
+                    {%- endfor %}
+                </ul>
+            </nav>
+            <div class="slider">
+                <img src="/img/{{ meta.slide }}" alt="slide" />
+            </div>
+        </header>
+
+		<main>
+            {% block content %}
+                {{ content | safe }}
+            {% endblock content %}
+        </main>
+
+        <footer>
+            <p class="copyright">{{ meta.description }} &copy; | Todos os direitos reservados</p>
+            <p class="logohn">
+                <a href="{{ meta.author.link }}" target="_blank" rel="noopener noreferrer">
+                    <img src="/img/{{ meta.author.logo }}" alt="{{ meta.author.name }}" />
+                </a>
+            </p>
+        </footer>
+        <a href="#" class="btn-top">Ir para o Topo</a>
+
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+        <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+	</body>
+</html>

@@ -1,0 +1,18 @@
+{
+	"title": "Green Tea Gastronomia",
+	"description": "Green Tea Gastronomia",
+	"lang": "pt-br",
+	"locale": "pt_br",
+	"author": {
+		"name": "HN Phenix",
+		"link": "https://hnphenix.com.br",
+		"logo": "logohn-preto.png"
+	},
+	"keywords": "greentea, restaurante",
+	"social": {
+		"facebook": "#",
+		"instagram": "#"
+	},
+	"logo": "logo.jpg",
+	"slide": "slide.jpg"
+}

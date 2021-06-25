@@ -1,0 +1,21 @@
+{% extends "./base.njk" %}
+
+{% block content %}
+    <article>
+        <div class="_box_">
+            <h2 class="box__title">{{ title | safe }}</h2>
+
+            {{ content | safe }}
+        </div>
+    </article>
+    <article class="multi">
+        <h2 class="title">Nosso Espaço</h2>
+        {% for photo in gallery %}
+        <div class="card">
+            <a class="card__action" data-fancybox="espacos" href="/img/{{ photo.photo | safe }}">
+                <img src="/img/{{ photo.photo | safe }}" alt="Espaço" class="card__img" />
+            </a>
+        </div>
+        {% endfor %}
+    </article>
+{% endblock %}
