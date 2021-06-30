@@ -3,11 +3,7 @@ title: 10 a 30 de junho de 2021
 tags: menu_special
 permalink: false
 ---
-### Sugestão do Dia 29 de Junho
-
-Nhoque bicolor ao molho de queijo com farofa de nozes- R$ 29,00
-
-### Entrada 
+### Entrada
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
