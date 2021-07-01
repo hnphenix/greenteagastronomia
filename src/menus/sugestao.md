@@ -1,5 +1,5 @@
 ---
-title: 10 a 30 de junho de 2021
+title: 01 a 14 de julho de 2021
 tags: menu_special
 permalink: false
 ---
@@ -9,22 +9,23 @@ Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
 ### Sugestão Especial
 
-Bife de ancho com farofa de ovo, batata frita e mº à campanha - R$ 89,00
+Magret de pato ao mº de laranja com mousseline de baroa e pupunha grelhado - R$ 58,00
 
 ### Sugestões do Chef
 
-Mignon ao poivre com gratin de batata - R$ 68,00\
-Ravioli de camarão com catupiry, molho bisque e aneto - R$ 52,00\
-Arroz de polvo - R$ 62,00
+Mignon ao mº terra e mar (mº branco, camarão, bacon e cogumelo) com paglio e fieno - R$ 63,00
+
+\
+Salmão grelhado ao mº de maracujá e espaguete de legumes na manteiga de sálvia - R$ 63,00
 
 ### Executiva
 
-Carne assada em seu próprio molho com espaguete ao alho e óleo - R$ 39,00
+Linguicinha acebolada, tutu, banana à milanesa e salada de couve - R$ 29,00
 
 ### Vegetariana
 
-Estrogonofe de cogumelos com arroz branco e batata palha - R$ 36,00
+Berinjela à parmegiana com purê de batata - R$ 24,00
 
 ### Sobremesa
 
-Pudim de tapioca com calda de coco queimado - R$ 15,00
+Gateau com mousse de chocolate branco e ganache morna - R$ 22,00
