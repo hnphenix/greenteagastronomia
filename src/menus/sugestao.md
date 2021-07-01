@@ -9,7 +9,7 @@ Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
 ### Sugestão Especial
 
-Magret de pato ao mº de laranja com mousseline de baroa e pupunha grelhado - R$ 58,00
+Magret de pato ao mº de amora com mousseline de baroa e pupunha grelhado - R$ 58,00
 
 ### Sugestões do Chef
 
