@@ -3,7 +3,6 @@ title: Cardápio
 tags: menus
 permalink: false
 ---
-
 ### ENTRADAS
 
 * Cesta de pães, patê do dia e manteiga de ervas - R$ 17,00
