@@ -1,5 +1,5 @@
 ---
-title: 01 a 14 de julho de 2021
+title: 15 a 28 de julho de 2021
 tags: menu_special
 permalink: false
 ---
@@ -9,23 +9,25 @@ Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
 ### Sugestão Especial
 
-Magret de pato ao mº de amora com mousseline de baroa e pupunha grelhado - R$ 58,00
+Penne com bacalhau cremoso e flor de brócolis - R$ 62,00
 
 ### Sugestões do Chef
 
-Mignon ao mº terra e mar (mº branco, camarão, bacon e cogumelo) com paglio e fieno - R$ 63,00
+Filé de peixe ao mº de limão com arroz negro e ninho de alho poró- R$ 59,00
 
 \
-Salmão grelhado ao mº de maracujá e espaguete de legumes na manteiga de sálvia - R$ 63,00
+Filé mignon recheado com queijo de cabra, batata calabresa, cogumelos e tomatinhos sauté - R$ 62,00
+
+Costelinha suína desossada crocante com baião de dois e aipim frito - R$ 58,00
 
 ### Executiva
 
-Linguicinha acebolada, tutu, banana à milanesa e salada de couve - R$ 29,00
+Polpetone com purê de batata - R$ 38,00
 
 ### Vegetariana
 
-Berinjela à parmegiana com purê de batata - R$ 24,00
+Hamburguer de lentilha com chutney de tomate, batata frita e salada da horta - R$ 24,00
 
 ### Sobremesa
 
-Gateau com mousse de chocolate branco e ganache morna - R$ 22,00
+Creme brulé de paçoca - R$ 24,00
