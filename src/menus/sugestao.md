@@ -18,8 +18,6 @@ Filé de peixe ao mº de limão com arroz negro e ninho de alho poró- R$ 59,00
 \
 Filé mignon recheado com queijo de cabra, batata calabresa, cogumelos e tomatinhos sauté - R$ 62,00
 
-Costelinha suína desossada crocante com baião de dois e aipim frito - R$ 58,00
-
 ### Executiva
 
 Polpetone com purê de batata - R$ 38,00
