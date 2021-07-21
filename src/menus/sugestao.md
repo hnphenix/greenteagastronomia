@@ -29,5 +29,3 @@ Hamburguer de lentilha com chutney de tomate, batata frita e salada da horta - R
 ### Sobremesa
 
 Creme brulé de paçoca - R$ 24,00
-
-Cuscuz de tapioca com leite condensado - R$ 10,00
