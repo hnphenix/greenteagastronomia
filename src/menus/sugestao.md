@@ -3,10 +3,6 @@ title: 15 de julho a 04 de agosto de 2021
 tags: menu_special
 permalink: false
 ---
-### Sugestão do dia
-
-### Gnhocci de batata com ragu de costelinha - R$ 32,00
-
 ### Entrada
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
