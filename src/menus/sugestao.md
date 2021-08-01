@@ -30,19 +30,19 @@ Hamburguer de lentilha com chutney de tomate, batata frita e salada da horta - R
 
 Creme brulé de paçoca - R$ 24,00
 
-### Fondue de queijo
+### Fondue de queijo **(de terça a sexta-feira a partir das 19h)**
 
 Servido no pão sacadura acompanhado de tomatinho grape, cenoura, croutons, geleia de pimenta e rostie de baroa - R$ 80,00
 
-### Fondue de chocolate
+### Fondue de chocolate **(de terça a sexta-feira a partir das 19h)**
 
 Servido no pão australiano acompanhado de morangos, uvas, mini brownie e Madelaine - R$ 65,00
 
-### Fondue completo
+### Fondue completo **(de terça a sexta-feira a partir das 19h)**
 
 De queijo e de chocolate - R$ 130,00
 
-### Festival de caldos
+### Festival de caldos **(de terça a sexta-feira a partir das 19h)**
 
 Abóbora com farofa de carne seca - R$ 17,00
 
