@@ -1,5 +1,5 @@
 ---
-title: 15 de julho a 04 de agosto de 2021
+title: 05 a 18 de agosto de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,28 +7,31 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
+Bruschetta na focaccia com cogumelos gratinados e queijo tipo grana padano - R$ 32,00
+
 ### Sugestão Especial
 
-Penne com bacalhau cremoso e flor de brócolis - R$ 62,00
+Ossobuco com risoto de grana padano e açafrão ao molho roti de cogumelos - R$ 69,00
 
 ### Sugestões do Chef
 
-Filé de peixe ao mº de limão com arroz negro e ninho de alho poró- R$ 59,00
+Filé de pescada amarela ao mº de camarão com purê de banana da terra - R$ 69,00
 
-\
-Filé mignon recheado com queijo de cabra, batata calabresa, cogumelos e tomatinhos sauté - R$ 62,00
+Bife de ancho com chimichurri e batata rústica - R$ 72,00
+
+Picanha suína com feijão de corda e farofa de amendoim - R$ 40,00
 
 ### Executiva
 
-Polpetone com purê de batata - R$ 38,00
+Carne assada no seu próprio molho com espaguete na manteiga - R$ 39,00
 
 ### Vegetariana
 
-Hamburguer de lentilha com chutney de tomate, batata frita e salada da horta - R$ 24,00
+Kibe vegano de abóbora com aveia em flocos, couve refogada e arroz integral - R$ 29,00
 
 ### Sobremesa
 
-Creme brulé de paçoca - R$ 24,00
+Tiramissú - R$ 18,00
 
 ### Fondue de queijo **(de terça a sábado a partir das 19h)**
 
