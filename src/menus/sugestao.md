@@ -56,19 +56,3 @@ Palmito com chips de Parma crocante - R$ 22,00
 Cebola com gruyere - R$ 22,00
 
 Pão sacadura - R$ 6,00 (caso queira que o caldo seja servido no pão, basta solicitar ao garçom)
-
-
-
-***Cardápio Especial Dia dos Pais***
-
-Rostie de batata com salmão gravlax e sour cream R$ 40,00
-
-Steak tartar com fritas trufadas e parmesão em neve R$ 49,00
-
-Risoto de camarão (VM) com palmito pupunha R$ 89,00
-
-Paillard de filé com paglio e fieno ao molho triplo burro R$ 62,00
-
-Sobremesa:
-
-Tiramissú R$ 18,00
