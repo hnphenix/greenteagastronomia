@@ -89,7 +89,7 @@ permalink: false
 
 **Vinho Branco**
 
-* Santa Helena chardonnay - R$ 42,00
+* Santa Helena sauvignon blanc - R$ 42,00
 
 **Vinho Tinto**
 
