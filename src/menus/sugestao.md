@@ -1,5 +1,5 @@
 ---
-title: 05 a 18 de agosto de 2021
+title: 19 de agosto a 01 de setembro de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,31 +7,29 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
-Bruschetta na focaccia com cogumelos gratinados e queijo tipo grana padano - R$ 32,00
+Ceviche peruano com chips de batata doce - R$ 26,00
 
 ### Sugestão Especial
 
-Ossobuco com risoto de grana padano e açafrão ao molho roti de cogumelos - R$ 69,00
+Salmão papelote com arroz de amêndoas - R$ 68,00
 
 ### Sugestões do Chef
 
-Filé de pescada amarela ao mº de camarão com purê de banana da terra - R$ 69,00
+Bife de chorizo com gratin de palmito e molho mostarda anciene - R$ 72,00
 
-Bife de ancho com chimichurri e batata rústica - R$ 72,00
-
-Picanha suína com feijão de corda e farofa de amendoim - R$ 40,00
+Arroz negro de camarões com aspargos e maçã confit - R$ 62,00
 
 ### Executiva
 
-Carne assada no seu próprio molho com espaguete na manteiga - R$ 39,00
+Costelinha suína com barbecue de goiaba e batata frita - R$ 34,00
 
 ### Vegetariana
 
-Kibe vegano de abóbora com aveia em flocos, couve refogada e arroz integral - R$ 29,00
+Hamburguer de berinjela com castanha de caju e gergelim, salada de tomate seco, vagem e brócolis - R$ 28,00
 
 ### Sobremesa
 
-Tiramissú - R$ 18,00
+Petit gateau de doce de leite com sorvete de tapioca e calda de coco queimado - R$ 24,00
 
 ### Fondue de queijo **(de terça a sábado a partir das 19h)**
 
