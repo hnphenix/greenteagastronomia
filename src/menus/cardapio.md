@@ -104,7 +104,7 @@ permalink: false
 ### BEBIDAS
 
 * Água c/ gás e s/ gás - R$ 5,00
-* Mate leão - R$ 7,00
+* Mate leão - R$ 6,50
 * Refrigerante (lata) - R$ 6,80
 * Água de coco (coco legal) - R$ 8,00
 * Laranja Legal - R$ 9,00
