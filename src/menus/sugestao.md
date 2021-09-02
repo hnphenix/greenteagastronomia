@@ -1,5 +1,5 @@
 ---
-title: 19 de agosto a 01 de setembro de 2021
+title: 02 a 15 de setembro de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,29 +7,29 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
-Ceviche peruano com chips de batata doce - R$ 26,00
+Mousse de queijo boursin com chutney de tomate e torrada de pão italiano - R$ 16,00
 
 ### Sugestão Especial
 
-Salmão papelote com arroz de amêndoas - R$ 68,00
+Polvo crocante com legumes tostados e aioli de páprica - R$ 89,00
 
 ### Sugestões do Chef
 
-Bife de chorizo com gratin de palmito e molho mostarda anciene - R$ 72,00
+Arroz de bacalhau com crispy de mandioquinha - R$ 59,00
 
-Arroz negro de camarões com aspargos e maçã confit - R$ 62,00
+Bife de tiras com batata ao murro e molho bordelaise - R$ 72,00
 
 ### Executiva
 
-Costelinha suína com barbecue de goiaba e batata frita - R$ 34,00
+Paillard de frango à milanesa com espaguete na manteiga de sálvia - R$ 32,00
 
 ### Vegetariana
 
-Hamburguer de berinjela com castanha de caju e gergelim, salada de tomate seco, vagem e brócolis - R$ 28,00
+Kafta de feijão fradinho com quinoa e especiarias ao mº de tomates frescos e fios de legumes - R$ 32,00
 
 ### Sobremesa
 
-Petit gateau de doce de leite com sorvete de tapioca e calda de coco queimado - R$ 24,00
+Cheesecake de frutas vermelhas - R$ 15,00
 
 ### Fondue de queijo **(de terça a sábado a partir das 19h)**
 
