@@ -1,5 +1,5 @@
 ---
-title: 02 a 15 de setembro de 2021
+title: 16 a 29 de setembro de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,29 +7,29 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
-Mousse de queijo boursin com chutney de tomate e torrada de pão italiano - R$ 16,00
+Waffer com salmão gravlax, sour cream e redução de balsâmico - R$ 38,00
 
 ### Sugestão Especial
 
-Polvo crocante com legumes tostados e aioli de páprica - R$ 89,00
+Arroz caldoso de pato com cebola crocante - R$ 64,00
 
 ### Sugestões do Chef
 
-Arroz de bacalhau com crispy de mandioquinha - R$ 59,00
+Filé de pescada amarela com mº de duas passas, banana assada e arroz jasmim - R$ 69,00
 
-Bife de tiras com batata ao murro e molho bordelaise - R$ 72,00
+Filé ao poivre com paglia e fieno de espinafre e mix de cogumelos - R$ 69,00
 
 ### Executiva
 
-Paillard de frango à milanesa com espaguete na manteiga de sálvia - R$ 32,00
+Baião de dois com carne de sol - R$ 39,00
 
 ### Vegetariana
 
-Kafta de feijão fradinho com quinoa e especiarias ao mº de tomates frescos e fios de legumes - R$ 32,00
+Torta de legumes à provençal com arroz integral - R$ 26,00
 
 ### Sobremesa
 
-Cheesecake de frutas vermelhas - R$ 15,00
+Creme brulee de doce de leite - R$ 18,00
 
 ### Fondue de queijo **(de terça a sábado a partir das 19h)**
 
