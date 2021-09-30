@@ -1,31 +1,56 @@
 ---
-title: 10 a 23 de junho de 2021
+title: 16 a 29 de setembro de 2021
 tags: menu_special
 permalink: false
 ---
-
 ### Entrada
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
+Waffer com salmão gravlax, sour cream e redução de balsâmico - R$ 38,00
+
 ### Sugestão Especial
 
-Bife de ancho com farofa de ovo, batata frita e mº à campanha - R$ 89,00
+Arroz caldoso de pato com cebola crocante - R$ 64,00
 
 ### Sugestões do Chef
 
-Mignon ao poivre com gratin de batata - R$ 68,00\
-Ravioli de camarão com catupiry, molho bisque e aneto - R$ 52,00\
-Arroz de polvo - R$ 62,00
+Filé de pescada amarela com mº de duas passas, banana assada e arroz jasmim - R$ 69,00
+
+Filé ao poivre com paglia e fieno de espinafre e mix de cogumelos - R$ 69,00
 
 ### Executiva
 
-Carne assada em seu próprio molho com espaguete ao alho e óleo - R$ 39,00
+Baião de dois com carne de sol - R$ 39,00
 
 ### Vegetariana
 
-Estrogonofe de cogumelos com arroz branco e batata palha - R$ 36,00
+Torta de legumes à provençal com arroz integral - R$ 26,00
 
 ### Sobremesa
 
-Pudim de tapioca com calda de coco queimado - R$ 15,00
+Creme brulee de doce de leite - R$ 18,00
+
+### Fondue de queijo **(de terça a sábado a partir das 19h)**
+
+Servido no pão sacadura acompanhado de tomatinho grape, cenoura, croutons, geleia de pimenta e rostie de baroa - R$ 80,00
+
+### Fondue de chocolate **(de terça a sábado a partir das 19h)**
+
+Servido no pão australiano acompanhado de morangos, uvas, mini brownie e Madelaine - R$ 65,00
+
+### Fondue completo **(de terça a sábado a partir das 19h)**
+
+De queijo e de chocolate - R$ 130,00
+
+### Festival de caldos **(de terça a sábado a partir das 19h)**
+
+Abóbora com farofa de carne seca - R$ 17,00
+
+Gorgonzola com maçã e rúcula - R$ 17,00
+
+Palmito com chips de Parma crocante - R$ 22,00
+
+Cebola com gruyere - R$ 22,00
+
+Pão sacadura - R$ 6,00 (caso queira que o caldo seja servido no pão, basta solicitar ao garçom)
