@@ -17,7 +17,7 @@ Entrecôte ao molho de mostarda m grãos e batata Anna - R4 68,00
 
 Risoto aos Navegantes (lula, polvo, camarão e mexilhões) - R$ 58,00
 
-Bouf Bouguignon c/ fetuccine na manteiga (cebola charlote, bacon e champignon paris) R$ 56,00
+Boeuf Bouguignon c/ fetuccine na manteiga (cebola charlote, bacon e champignon paris) R$ 56,00
 
 ### Executiva
 
