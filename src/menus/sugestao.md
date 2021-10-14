@@ -1,5 +1,5 @@
 ---
-title: 30 a 14 de outubro de 2021
+title: 14 a 27 de outubro de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,26 +7,26 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
-Ceviche de peixe branco c/ fruta da estação e chips de mandioquinha - R$ 26,00
+Tartar de atum com abacate, molho tarê e gergelim torrado - R$ 32,00
 
 ### Sugestão Especial
 
-Entrecôte ao molho de mostarda m grãos e batata Anna - R4 68,00
+Risoto de arroz negro com polvo, tomate confit e crocante de páprica- R4 65,00
 
 ### Sugestões do Chef
 
-Risoto aos Navegantes (lula, polvo, camarão e mexilhões) - R$ 58,00
+Filé mignon em crosta de Parma com aligot e molho roti- R$ 64,00
 
-Boeuf Bouguignon c/ fetuccine na manteiga (cebola charlote, bacon e champignon paris) R$ 56,00
+Fetuccine com mix de cogumelos trufados - R$ 38,00
 
 ### Executiva
 
-Parmegiana de frango ao molho de tomates frescos - R$ 36,00
+Galeto assado no óleo de urucum com farofa de milho e molho Dijon - R$ 38,00
 
 ### Vegetariana
 
-Moqueca de jaca c/ castanha de caju, arroz branco e palha de batata doce R$ 36,00
+Kafta de feijão fradinho com musseline de mandioquinha - R$ 36,00
 
 ### Sobremesa
 
-Torta de limão com merengue R$ 18,00
+Tiramissú - R$ 16,00
