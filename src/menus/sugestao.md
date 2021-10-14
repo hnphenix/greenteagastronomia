@@ -11,7 +11,7 @@ Tartar de atum com abacate, molho tarê e gergelim torrado - R$ 32,00
 
 ### Sugestão Especial
 
-Risoto de arroz negro com polvo, tomate confit e crocante de páprica- R4 65,00
+Risoto de arroz negro com polvo, tomate confit e crocante de páprica- R$ 65,00
 
 ### Sugestões do Chef
 
