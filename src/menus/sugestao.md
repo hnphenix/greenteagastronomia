@@ -5,6 +5,8 @@ permalink: false
 ---
 ### Entrada
 
+Involtine de legumes com queijo de cabra - R$ 25,00
+
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
 Tartar de atum com abacate, molho tarê e gergelim torrado - R$ 32,00
