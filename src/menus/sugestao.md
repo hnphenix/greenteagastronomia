@@ -1,5 +1,5 @@
 ---
-title: 14 a 27 de outubro de 2021
+title: 29 de outubro a 10 de novembro de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,26 +7,26 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
-Tartar de atum com abacate, molho tarê e gergelim torrado - R$ 32,00
+Tataki de atum com molho oriental e chips de batata doce - R$ 32,00
 
 ### Sugestão Especial
 
-Risoto de arroz negro com polvo, tomate confit e crocante de páprica- R$ 65,00
+Ravioli de pato com queijo boursin ao molho de vinho e laranja- R$ 52,00
 
 ### Sugestões do Chef
 
-Filé mignon em crosta de Parma com aligot e molho roti- R$ 64,00
+Ossobuco com risoto de grana padano e molho Paris - R$ 69,00
 
-Fetuccine com mix de cogumelos trufados - R$ 38,00
+Filé de pescada amarela com arroz de coco e molho de moqueca - R$ 68,00
 
 ### Executiva
 
-Galeto assado no óleo de urucum com farofa de milho e molho Dijon - R$ 38,00
+Filé de sobrecoxa grelhado com creme de espinafre e molho de mostarda e mel - R$ 31,00
 
 ### Vegetariana
 
-Kafta de feijão fradinho com musseline de mandioquinha - R$ 36,00
+Kibe de abóbora com aveia em flocos e legumes assados - R$ 32,00
 
 ### Sobremesa
 
-Tiramissú - R$ 16,00
+Petit gateau de doce de leite com sorvete de tapioca e calda de coco queimado - R$ 24,00
