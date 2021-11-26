@@ -7,26 +7,26 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
-Ceviche de peixe branco ao tucupi, banana e aspargos - R$ 32,00
+Mix de folhas com salmão gravlax, tomatinho cereja, croutons de alho e vinagrete balsâmico - R$ 32,00
 
 ### Sugestão Especial
 
-Bife ancho ao mº chimichurri e batatas rústicas com alho confit- R$ 72,00
+Magret de canard com risoto de pera e molho agridoce - R$ 62,00
 
 ### Sugestões do Chef
 
-Atum em crosta de gergelim com cubinhos de baroa, cogumelos, nirá e wassabi ao mº oriental - R$ 69,00
+Filé de pescada amarela ao molho de camarão e arroz de amêndoas - R$ 69,00
 
-Bucatini com frutos do mar (lula, camarão, polvo e mexilhão) - R$ 65,00
+Filé mignon ao molho de damasco com risoto de brie e rúcula frita - R$ 72,00
 
 ### Executiva
 
-Bisteca suína ao molho roti, feijão de corda cremoso e crispy de couve - R$ 38,00
+Lingua ao molho madeira com purê de batatas - R$ 32,00
 
 ### Vegetariana
 
-Hamburguer de berinjela ao suco de tomate e arroz colorido - R$ 32,00
+Estrogonofe de aspargos com arroz branco e palha de baroa - R$ 32,00
 
 ### Sobremesa
 
-Cheesecake de maracujá - R$ 16,00
+Pudim de tapioca com calda de coco queimados- R$ 15,00
