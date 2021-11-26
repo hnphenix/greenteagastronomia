@@ -98,9 +98,9 @@ permalink: false
 
 ### CAFÉ E CHÁ
 
-* Chá - R$ 4,50
-* Café expresso - R$ 4,50
-* Capuccino - R$ 5,50
+* Chá - R$ 5,00
+* Café expresso - R$ 5,50
+* Capuccino - R$ 6,50
 * Café descafeinado - R$ 8,50
 
 ### BEBIDAS
@@ -108,34 +108,35 @@ permalink: false
 * Água c/ gás e s/ gás - R$ 5,00
 * Mate leão - R$ 6,50
 * Refrigerante (lata) - R$ 6,80
-* Água de coco (coco legal) - R$ 8,00
+* Água de coco (coco legal) - R$ 8,50
 * Laranja Legal - R$ 9,00
 * Suco Green People - R$ 10,00
 
 ### CERVEJAS
 
 * Cerveja Therezopolis - R$ 19,00
-* Cerveja Antarctica Original 600 ml - R$ 14,00
-* Cerveja Estrella Galícia 600ml - R$ 13,50
-* Cerveja Brahma duplo malte (600ml) - R$ 14,00
-* Cerveja Amstel (600ml) R$ 14,00
+* Cerveja Antarctica Original 600 ml - R$ 15,00
+* Cerveja Estrella Galícia 600ml - R$ 15,00
+* Cerveja Brahma duplo malte (600ml) - R$ 15,00
+* Cerveja Amstel (600ml) R$ 15,00
+* Cerveja Spaten (600ml) - R$ 16,00
 * Cerveja Heineken 600 ml - R$ 16,00
 * Cerveja Becks 600ml - R$ 16,00
 * Cerveja Stella Artois long neck (330ml) - R$ 9,00
 * Cerveja Heineken long neck (330ml) - R$ 10,00
 * Cerveja Becks long neck (330ml) - R$ 10,00
-* Chopp - R$ 9,00
+* Chopp - R$ 10,00
 
 ### DRINKS
 
 * Whisky nacional - R$ 11,00
 * Whisky (importado) 8 anos - R$ 20,00
 * Whisky (importado) 12 anos - R$ 25,00
-* Aperol spritz - R$ 30,00
-* Coquetel de frutas - R$ 16,00
-* Dry martini - R$ 19,00
-* Blood mary - R$ 19,00
-* Margarita - R$ 21,00
+* Aperol spritz - R$ 33,00
+* Coquetel de frutas - R$ 18,00
+* Dry martini - R$ 20,00
+* Blood mary - R$ 20,00
+* Margarita - R$ 22,00
 
 ### CAIPIRINHAS TRADICIONAIS
 
@@ -153,9 +154,8 @@ permalink: false
 
 ### GIN TÔNICAS
 
-* Importado R$ 29,00
-* Águas de verão - Gin Importado com tônica, casca de limão siciliano e casca de tangerina e zimbro
-* Green Gin - Tônica, chá verde, gengibre e casca de limão siciliano
-* Tangin - Tônica, tangerina, alecrim e zimbro
-* Pink Tonic - Tônica, chá de frutas vermelhas, morango fatiado, maracujá e folhas de hortelã
-* Gin tônica- Tônica, limão e zimbro
+* Águas de verão - Gin Importado com tônica, casca de limão siciliano e casca de tangerina e zimbro R$ 31,00
+* Green Gin - Tônica, chá verde, gengibre e casca de limão siciliano R$ 31,00
+* Tangin - Tônica, tangerina, alecrim e zimbro R$ 31,00
+* Pink Tonic - Tônica, chá de frutas vermelhas, morango fatiado, maracujá e folhas de hortelã R$ 31,00
+* Gin tônica- Tônica, limão e zimbro R$ 29,00
