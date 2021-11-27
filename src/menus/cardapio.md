@@ -9,6 +9,8 @@ permalink: false
 * Cubinhos de tapioca com dois molhos (pimenta agridoce e melaço) - R$ 20,00
 * Brie à milanesa com caramelo de damasco e torradas - R$ 41,00
 * Steak tartar com torradinhas de focaccia - R$ 50,00
+* Tartar de salmão com souer cream e torradinhas de focaccia R$ 50,00
+* Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas R$ 50,00
 * Carpaccio semi-grelhado em crosta de pimenta c/ fatia de pão rústico - R$ 52,00
 * Polvo ao vinagrete com torradas - R$ 52,00
 * Trio de bruschettas - R$ 37,00
