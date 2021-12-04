@@ -5,7 +5,7 @@ permalink: false
 ---
 ### Entrada
 
-Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
+Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$50,00
 
 Mix de folhas com salmão gravlax, tomatinho cereja, croutons de alho e vinagrete balsâmico - R$ 32,00
 
