@@ -1,5 +1,5 @@
 ---
-title: 26 de novembro a 08 de dezembro de 2021
+title: 09 a 22 de dezembro de 2021
 tags: menu_special
 permalink: false
 ---
@@ -7,26 +7,26 @@ permalink: false
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$50,00
 
-Mix de folhas com salmão gravlax, tomatinho cereja, croutons de alho e vinagrete balsâmico - R$ 32,00
+Mil folhas de atum com palmito pupunha e brotos ao mº oriental - R$ 30,00
 
 ### Sugestão Especial
 
-Magret de canard com risoto de pera e molho agridoce - R$ 62,00
+Entrecote com risoto de funghi secchi ao molho de mostarda anciene - R$ 69,00
 
 ### Sugestões do Chef
 
-Filé de pescada amarela ao molho de camarão e arroz de amêndoas - R$ 69,00
+Filé mignon ao molho bordelaise e legumes tostados - R$ 72,00
 
-Filé mignon ao molho de damasco com risoto de brie e rúcula frita - R$ 72,00
+Espaguete à Pescatore (lula, polvo, camarão e mexilhão) - R$ 68,00
 
 ### Executiva
 
-Lingua ao molho madeira com purê de batatas - R$ 32,00
+Galeto assado com polenta frita e arroz à grega - R$ 32,00
 
 ### Vegetariana
 
-Estrogonofe de aspargos com arroz branco e palha de baroa - R$ 32,00
+Moqueca de jaca com farofa de amendoim e arroz branco - R$ 32,00
 
 ### Sobremesa
 
-Pudim de tapioca com calda de coco queimados- R$ 15,00
+Tartelete de limão siciliano - R$ 14,00
