@@ -5,6 +5,8 @@ permalink: false
 ---
 ### Entrada
 
+Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 39,00
+
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$50,00
 
 Mil folhas de atum com palmito pupunha e brotos ao mº oriental - R$ 30,00
