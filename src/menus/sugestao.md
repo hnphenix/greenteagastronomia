@@ -1,5 +1,5 @@
 ---
-title: 09 de dezembro a 05 de janeiro de 2022
+title: 06 a 20 de janeiro de 2022
 tags: menu_special
 permalink: false
 ---
@@ -9,26 +9,26 @@ Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 3
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$50,00
 
-Mil folhas de atum com palmito pupunha e brotos ao mº oriental - R$ 30,00
+Salada verde com figo, lascas de parmesão, presunto Parma e mº mostarda e mel - R$ 32,00
 
 ### Sugestão Especial
 
-Entrecote com risoto de funghi secchi ao molho de mostarda anciene - R$ 69,00
+Polvo crocante com legumes tostados e aioli de páprica - R$ 89,00
 
 ### Sugestões do Chef
 
-Filé mignon ao molho bordelaise e legumes tostados - R$ 72,00
+Bombom de filé mignon com pera caramelizada, arroz de salsa e mº gorgonzola - R$ 66,00
 
-Espaguete à Pescatore (lula, polvo, camarão e mexilhão) - R$ 68,00
+Ravioli de bacalhau com mº de champagne e lâminas de amêndoas - R$ 59,00
 
 ### Executiva
 
-Galeto assado com polenta frita e arroz à grega - R$ 32,00
+Polpetone de carne recheado com queijo, purê de batata e molho de tomates frescos e manjericão - R$ 38,00
 
 ### Vegetariana
 
-Moqueca de jaca com farofa de amendoim e arroz branco - R$ 32,00
+Risoto de quinoa com lentilhas e cebolinha agridoce - R$ 32,00
 
 ### Sobremesa
 
-Tartelete de limão siciliano - R$ 14,00
+Surpresa do Chef - R$ 14,00
