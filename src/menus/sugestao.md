@@ -3,6 +3,10 @@ title: 21 de janeiro a 02 de fevereiro de 2022
 tags: menu_special
 permalink: false
 ---
+### Somente hoje - Dia de Gnocchi
+
+Gnocchi frito de baroa com cogumelos - R$ 38,00
+
 ### Entrada
 
 Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 39,00
