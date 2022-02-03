@@ -1,5 +1,5 @@
 ---
-title: 21 de janeiro a 02 de fevereiro de 2022
+title: 03 a 16 de fevereiro de 2022
 tags: menu_special
 permalink: false
 ---
@@ -9,26 +9,28 @@ Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 3
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$50,00
 
-Mousse de queijo de cabra boursin com chutney de tomates e torradas de pão italiano - R$ 18,00
+Couscous marroquino com camarões grelhados, tomate assado, castanha e ceboulette - R$ 34,00
 
 ### Sugestão Especial
 
-Risoto nero de polvo com lascas de parmesão e ervilhas frescas- R$ 68,00
+Salmão grelhado com legumes salteados e aioli de maracujá- R$ 69,00
 
-### Sugestões do Chef
+### Sugestão Clássica
 
-Filé mignon ao poivre com rostie de batata doce recheada de provolone - R$ 65,00
+Filet ao Chateaubriand com arroz à Piamontese - R$ 70,00
 
-Tender com purê de maçã e molho roti - R$ 48,00
+### Sugestão do chef
+
+Medalhão de mignon envolto de Parma com manteiga de sálvia e arroz à grega- R$ 64,00
 
 ### Executiva
 
-Paillard de frango crocante com espaguete ao molho Alfredinho - R$ 35,00
+Fricassé de chester com batata palha e arroz branco - R$ 32,00
 
 ### Vegetariana
 
-Hamburguer de berinjela com molho pomodoro e espaguete de abobrinha italiana - R$ 32,00
+Fetuccine com mix de cogumelos trufados - R$ 36,00
 
 ### Sobremesa
 
-Bolo de aipim com sorvete de queijo e doce de leite caseiro - R$ 15,00
+Cheesecake de goiaba - R$ 15,00
