@@ -15,9 +15,9 @@ Filet mignon ao molho mostarda c/ baked potato com sour cream e chips de Parma R
 
 Filet de frango ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 39,00
 
-### Sugestão Clássica 
+### Sugestão Clássica
 
-Não disponível
+Penne com cubos de salmão e creme de alho poro R$ 39,00
 
 ### Sugestão do chef
 
