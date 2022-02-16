@@ -1,5 +1,5 @@
 ---
-title: 03 a 16 de fevereiro de 2022
+title: "Cardapio Restrito "
 tags: menu_special
 permalink: false
 ---
@@ -7,25 +7,27 @@ permalink: false
 
 Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 39,00
 
-Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$50,00
-
-Couscous marroquino com camarões grelhados, tomate assado, castanha e ceboulette - R$ 34,00
+Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$ 50,00
 
 ### Sugestão Especial
 
-Salmão grelhado com legumes salteados e aioli de maracujá- R$ 69,00
+Filet mignon ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 66,00
 
-### Sugestão Clássica
+Filet de frango ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 39,00
 
-Filet ao Chateaubriand com arroz à Piamontese - R$ 70,00
+### Sugestão Clássica 
+
+Não disponível
 
 ### Sugestão do chef
 
-Medalhão de mignon envolto de Parma com manteiga de sálvia e arroz à grega- R$ 64,00
+Não disponível
 
 ### Executiva
 
-Fricassé de chester com batata palha e arroz branco - R$ 32,00
+Penne a Bolonhesa R$ 32,00
+
+Penne ao Pomodoro R$ R$ 32,00
 
 ### Vegetariana
 
