@@ -15,7 +15,7 @@ Filet mignon ao molho mostarda c/ baked potato com sour cream e chips de Parma R
 
 ### Sugestão Frango
 
-Filet de frango ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 39,00
+Filet de frango ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 38,00
 
 ### Sugestão Clássica
 
