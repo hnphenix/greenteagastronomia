@@ -9,29 +9,27 @@ Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 3
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$ 50,00
 
-### Sugestão Carne
+Couscous marroquino com camarões grelhados, tomate assado, castanha e ceboulette - R$ 34,00
 
-Filet mignon ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 66,00
+### Especial
 
-### Sugestão Frango
+Salmão grelhado com legumes salteados e aioli de maracujá - R$ 69,00
 
-Filet de frango ao molho mostarda c/ baked potato com sour cream e chips de Parma R$ 38,00
+### Clássica
 
-### Sugestão Clássica
+Filet ao Chateaubriand com arroz à Piamontese - R$ 70,00
 
-Penne com cubos de salmão e creme de alho poro R$ 39,00
+### Do Chef
 
-### Sugestão do Massa
-
-Penne a Bolonhesa R$ 32,00l
+Medalhão de mignon envolto de Parma com manteiga de sálvia e arroz à grega - R$ 64,00
 
 ### Executiva
 
-Penne ao Pomodoro R$ R$ 32,00
+Fricassé de chester com batata palha e arroz branco - R$ 32,00
 
 ### Vegetariana
 
-Penne com mix de cogumelos trufados - R$ 36,00
+Fetuccine com mix de cogumelos trufados - R$ 36,00
 
 ### Sobremesa
 
