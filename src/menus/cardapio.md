@@ -5,7 +5,7 @@ permalink: false
 ---
 ### ENTRADAS
 
-* Cesta de pães, patê do dia e manteiga de ervas - R$ 18,00
+* Cesta de pães, pasta do dia e manteiga de ervas - R$ 18,00
 * Cubinhos de tapioca com dois molhos (pimenta agridoce e melaço) - R$ 20,00
 * Brie à milanesa com caramelo de damasco e torradas - R$ 41,00
 * Steak tartar com torradinhas de focaccia - R$ 50,00
