@@ -1,5 +1,5 @@
 ---
-title: "Cardapio Restrito "
+title: Sugestões
 tags: menu_special
 permalink: false
 ---
