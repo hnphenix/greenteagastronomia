@@ -1,5 +1,5 @@
 ---
-title: Sugestões
+title: 10 a 23 de março de 2022
 tags: menu_special
 permalink: false
 ---
@@ -9,28 +9,29 @@ Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 3
 
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$ 50,00
 
-Couscous marroquino com camarões grelhados, tomate assado, castanha e ceboulette - R$ 34,00
+Salada verde com cogumelos frescos, lascas de parmesão, pepino japonês, amêndoas laminadas e redução de balsâmico - R$ 30,00
 
-### Especial
+### \
+Sugestão especial
 
-Salmão grelhado com legumes salteados e aioli de maracujá - R$ 69,00
+Atum em crosta de gergelim, mousseline de baroa com wassabi e molho oriental - R$ 67,00
 
-### Clássica
+### Sugestão carne
 
-Filet ao Chateaubriand com arroz à Piamontese - R$ 70,00
+Bife ancho com risoto de brie e molho de mostarda anciene - R$ 72,00
 
-### Do Chef
+### Sugestão frutos do mar
 
-Medalhão de mignon envolto de Parma com manteiga de sálvia e arroz à grega - R$ 64,00
+Bucatini com camarões, pamentier de alho poró e tomatinhos confitados - R$ 62,00
 
 ### Executiva
 
-Fricassé de chester com batata palha e arroz branco - R$ 32,00
+Escalopinho de carne com mº gorgonzola e espaguete na manteiga de ervas - R$ 39,00
 
 ### Vegetariana
 
-Fetuccine com mix de cogumelos trufados - R$ 36,00
+Kafta de feijão fradinho com salada caprese - R$ 36,00
 
 ### Sobremesa
 
-Cheesecake de goiaba - R$ 15,00
+Mil folhas de frutas e creme patissier - R$ 14,00
