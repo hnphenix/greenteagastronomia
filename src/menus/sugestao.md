@@ -1,37 +1,34 @@
 ---
-title: 10 a 23 de março de 2022
+title: 24 de março a 06 de abril de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Couvert especial (salaminho, azeitona temperada, pizza branca e grissini) - R$ 39,00
-
 Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$ 50,00
 
-Salada verde com cogumelos frescos, lascas de parmesão, pepino japonês, amêndoas laminadas e redução de balsâmico - R$ 30,00
+Salada de verdes especiais com batata doce, tomatinho cereja, ovos de codorna, nozes e molho de mostarda e mel - R$ 30,00\
 
-### \
-Sugestão especial
+### Sugestão especial
 
-Atum em crosta de gergelim, mousseline de baroa com wassabi e molho oriental - R$ 67,00
+Magret de canard com molho de amora e mousseline de abóbora - R$ 64,00
 
 ### Sugestão carne
 
-Bife ancho com risoto de brie e molho de mostarda anciene - R$ 72,00
+Ossobuco de vitelo com risoto de açafrão da terra e molho bordelaise - R$ 69,00
 
-### Sugestão frutos do mar
+### Sugestão peixe
 
-Bucatini com camarões, pamentier de alho poró e tomatinhos confitados - R$ 62,00
+Filé de pescada amarela com purê de batata roxa ao molho belle meuniere - R$ 74,00
 
 ### Executiva
 
-Escalopinho de carne com mº gorgonzola e espaguete na manteiga de ervas - R$ 39,00
+Penne com paleta suina desfiada ao molho de especiarias e pimenta verde - R$ 32,00
 
 ### Vegetariana
 
-Kafta de feijão fradinho com salada caprese - R$ 36,00
+Hamburguer de berinjela com castanha e saladinha de lentilha - R$ 36,00
 
 ### Sobremesa
 
-Mil folhas de frutas e creme patissier - R$ 14,00
+Surpresa de abacaxi com sorvete de baunilha e amendoim - R$ 18,00
