@@ -9,6 +9,10 @@ Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$ 50,00
 
 Salada de verdes especiais com queijo de cabra, tomates assados, banana passa e amêndoas tostadas - R$ 30,00
 
+### Sugestão bacalhau
+
+Lâminas de bacalhau com alho dourado, batatas fatiadas, pimentão vermelho no leito de torradas crocantes - R$ 72,00
+
 ### Sugestão especial
 
 Ravioli de pato confit ao molho de vinho e laranja com nozes carameladas - R$ 52,00
@@ -16,10 +20,6 @@ Ravioli de pato confit ao molho de vinho e laranja com nozes carameladas - R$ 52
 ### Sugestão carne
 
 Filé mignon ao molho de vinho tinto com ravioli de pera ao parmesão - R$ 69,00
-
-### Sugestão bacalhau
-
-Lâminas de bacalhau com alho dourado, batatas fatiadas, pimentão vermelho no leito de torradas crocantes - R$ 72,00
 
 ### Executiva
 
