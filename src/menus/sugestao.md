@@ -17,7 +17,7 @@ Ravioli de pato confit ao molho de vinho e laranja com nozes carameladas - R$ 52
 
 ### Sugestão carne
 
-Picanha argentina ao molho chimichurry, farofa de ovos e fritas - R$ 74,00
+Picanha argentina ao molho chimichurry, farofa de ovos e fritas - R$ 88,00
 
 ### Sugestão frutos do mar
 
