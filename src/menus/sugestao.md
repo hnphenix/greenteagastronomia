@@ -1,17 +1,15 @@
 ---
-title: 14 a 27 de abril de 2022
+title: 28 de abril a 11 de maio de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$ 50,00
+Salada de rúcula com atum, manga, gergelim e vinagrete oriental - R$ 30,00
 
-Salada de verdes especiais com queijo de cabra, tomates assados, banana passa e amêndoas tostadas - R$ 30,00
+### Sugestão especial
 
-### Sugestão bacalhau
-
-Lâminas de bacalhau com alho dourado, batatas fatiadas, pimentão vermelho no leito de torradas crocantes - R$ 72,00
+Polvo grelhado com batatas assadas salteadas na manteiga de páprica - R$ 92,00
 
 ### Sugestão especial
 
@@ -19,16 +17,20 @@ Ravioli de pato confit ao molho de vinho e laranja com nozes carameladas - R$ 52
 
 ### Sugestão carne
 
-Filé mignon ao molho de vinho tinto com ravioli de pera ao parmesão - R$ 69,00
+Picanha argentina ao molho chimichurry, farofa de ovos e fritas - R$ 74,00
+
+### Sugestão frutos do mar
+
+Riso nero com camarões empanados e crispy de alho poró - R$ 64,00
 
 ### Executiva
 
-Filé de sobrecoxa grelhada com espagute de legumes no azeite aromatizado - R$ 34,00
+Galeto de leite com polenta de queijo, arroz de salsa e molho mostarda - R$ 37,00
 
 ### Vegetariana
 
-Involtini de berinjela com gorgonzola - R$ 37,00
+Risoto de abobrinha com queijo cottage e quinoa frita - R$ 34,00
 
 ### Sobremesa
 
-Trio mousse de chocolate (meio amargo, branco e ao leite) - R$ 16,00
+Tartelete de maracujá - R$ 14,00
