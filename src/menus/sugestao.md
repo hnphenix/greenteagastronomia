@@ -5,7 +5,7 @@ permalink: false
 ---
 ### Entrada
 
-Salada de abacate com atum, manga, gergelim e vinagrete oriental - R$ 30,00
+Salada de rúcula com atum, manga, gergelim e vinagrete oriental - R$ 30,00
 
 ### Sugestão especial
 
