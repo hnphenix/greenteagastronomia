@@ -11,10 +11,6 @@ Salada de rúcula com atum, manga, gergelim e vinagrete oriental - R$ 30,00
 
 Polvo grelhado com batatas assadas salteadas na manteiga de páprica - R$ 92,00
 
-### Sugestão especial
-
-Ravioli de pato confit ao molho de vinho e laranja com nozes carameladas - R$ 52,00
-
 ### Sugestão carne
 
 Picanha argentina ao molho chimichurry, farofa de ovos e fritas - R$ 88,00
