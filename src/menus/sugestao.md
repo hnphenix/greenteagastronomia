@@ -5,28 +5,28 @@ permalink: false
 ---
 ### Entrada
 
-Salada de rúcula com atum, manga, gergelim e vinagrete oriental - R$ 30,00
+Salada de endivias com peras ao vinho, queijo gorgonzola e nozes - R$ 35,00
 
 ### Sugestão especial
 
-Polvo grelhado com batatas assadas salteadas na manteiga de páprica - R$ 92,00
+Salmão grelhado ao molho antiboise, arroz de jasmim e mini cenouras orgânicas - R$ 79,00
 
 ### Sugestão carne
 
-Picanha argentina ao molho chimichurry, farofa de ovos e fritas - R$ 88,00
+Filet mignon ao molho poivre, purê de baroa e crocante de parmesão - R$ 74,00
 
 ### Sugestão frutos do mar
 
-Riso nero com camarões empanados e crispy de alho poró - R$ 64,00
+Camarões grelhados, salteados no azeite de ervas com arroz de brocolis e laminas de alho - R$ 90,00
 
 ### Executiva
 
-Galeto de leite com polenta de queijo, arroz de salsa e molho mostarda - R$ 37,00
+Costelinha suina ao molho barbecue de goiabada e batatas rusticas  - R$ 39,00
 
 ### Vegetariana
 
-Risoto de abobrinha com queijo cottage e quinoa frita - R$ 34,00
+Kafta de feijão fradinho com saladinha verde, tomates cereja e cebola roxa - R$ 32,00
 
 ### Sobremesa
 
-Tartelete de maracujá - R$ 14,00
+Banofe- R$ 16,00
