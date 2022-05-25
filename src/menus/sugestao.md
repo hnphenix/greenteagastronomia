@@ -1,32 +1,32 @@
 ---
-title: 12 de maio a 25 de maio de 2022
+title: 26 de maio a 8 de junho de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Salada de endivias com peras ao vinho, queijo gorgonzola e nozes - R$ 35,00
+Salada de verdes especiais c/ presunto Parma, maça, queijo de cabra e vinagrete agridoce     R$ 35
 
 ### Sugestão especial
 
-Salmão grelhado ao molho antiboise, arroz de jasmim e mini cenouras orgânicas - R$ 79,00
+Confit de pato c/ musseline de inhame ao molho de laranja R$ 64
 
 ### Sugestão carne
 
-Filet mignon ao molho poivre, purê de baroa e crocante de parmesão - R$ 74,00
+Filet mignon c/ palmito pupunha assado ao molho de cogumelos R$ 78
 
-### Sugestão frutos do mar
+### Sugestão peixe
 
-Camarões grelhados, salteados no azeite de ervas com arroz de brocolis e laminas de alho - R$ 90,00
+Tilápia em crosta de castanha c/ arroz cremoso de limão siciliano R$ 59
 
 ### Executiva
 
-Costelinha suina ao molho barbecue de goiabada e batatas rusticas  - R$ 39,00
+Ravioli de pêra c/ creme de grana padano  - R$ 40
 
 ### Vegetariana
 
-Kafta de feijão fradinho com saladinha verde, tomates cereja e cebola roxa - R$ 32,00
+Hamburguer de grão de bico c/ legumes assados no alecrim- R$ 32
 
 ### Sobremesa
 
-Banofe- R$ 16,00
+Churros recheados de doce de leite c/ sorvete de pistache- R$ 18,00
