@@ -1,32 +1,32 @@
 ---
-title: 26 de maio a 8 de junho de 2022
+title: 09 a 22 de junho de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Salada de verdes especiais c/ presunto Parma, maça, queijo de cabra e vinagrete agridoce     R$ 35
+Salada Niçoise (verdes, atum, ovos cozidos, cebola roxa e azeitonas)     R$ 32
 
 ### Sugestão especial
 
-Confit de pato c/ musseline de inhame ao molho de laranja R$ 64
+Picanha argentina com alho dourado e creme de espinafre R$ 89
 
-### Sugestão carne
+### Sugestão frutos do mar
 
-Filet mignon c/ palmito pupunha assado ao molho de cogumelos R$ 78
+Espetada de camarão (VM) com mozzarella búfala e arroz à grega R$ 89
 
-### Sugestão peixe
+### Sugestão massa ou risoto
 
-Tilápia em crosta de castanha c/ arroz cremoso de limão siciliano R$ 59
+Risoto caprese R$ 42
 
 ### Executiva
 
-Ravioli de pêra c/ creme de grana padano  - R$ 40
+Dobradinha com linguiça calabresa, feijão e arroz branco   R$ 36
 
 ### Vegetariana
 
-Hamburguer de grão de bico c/ legumes assados no alecrim- R$ 32
+Shiitake cremoso com farofa de legumes e palha de baroa  R$ 38
 
 ### Sobremesa
 
-Churros recheados de doce de leite c/ sorvete de pistache- R$ 18,00
+Pavlova de caqui  R$ 15
