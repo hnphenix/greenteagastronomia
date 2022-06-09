@@ -15,7 +15,7 @@ Picanha argentina com alho dourado e creme de espinafre R$ 89
 
 Espetada de camarão (VM) com mozzarella búfala e arroz à grega R$ 89
 
-### Sugestão massa ou risoto
+### Sugestão risoto
 
 Risoto caprese R$ 42
 
