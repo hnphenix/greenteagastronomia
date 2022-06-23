@@ -1,32 +1,32 @@
 ---
-title: 09 a 22 de junho de 2022
+title: 23 de junho a 06 de julho de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Salada Niçoise (verdes, atum, ovos cozidos, cebola roxa e azeitonas)     R$ 32
+Verrine de baroa com crispy de carne seca   R$ 29,
 
 ### Sugestão especial
 
-Picanha argentina com alho dourado e creme de espinafre R$ 89
+Linguine com camarões ao molho de champagne e parmentier de alho poró R$ 89
 
-### Sugestão frutos do mar
+### Sugestão carne
 
-Espetada de camarão (VM) com mozzarella búfala e arroz à grega R$ 89
+Bombom de filé mignon com peras assadas, arroz de salsa e molho gorgonzola R$ 74
 
-### Sugestão risoto
+### Sugestão peixe
 
-Risoto caprese R$ 42
+Atum em crosta de gergelim com legumes orientais e teriyaki de maçã R$ 69
 
 ### Executiva
 
-Dobradinha com linguiça calabresa, feijão e arroz branco   R$ 36
+Rabada desfiada com polenta e agrião   R$ 39
 
 ### Vegetariana
 
-Shiitake cremoso com farofa de legumes e palha de baroa  R$ 38
+Almôndegas de grão de bico com aveia em flocos e espaguete ao molho sugo  R$ 29
 
 ### Sobremesa
 
-Pavlova de caqui  R$ 15
+Torta de banana com sorvete de canela e calda de anis  R$ 14
