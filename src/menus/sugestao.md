@@ -3,10 +3,6 @@ title: 23 de junho a 06 de julho de 2022
 tags: menu_special
 permalink: false
 ---
-### Sugestão do dia (29/06)
-
-Gnocchi de abóbora ao molho de gorgonzola e crispy de carne seca  R$ 36,
-
 ### Entrada
 
 Verrine de baroa com crispy de carne seca   R$ 29,
