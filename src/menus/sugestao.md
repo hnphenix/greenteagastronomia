@@ -1,32 +1,36 @@
 ---
-title: 23 de junho a 06 de julho de 2022
+title: 07 de julho a 20 de julho de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Verrine de baroa com crispy de carne seca   R$ 29,
+Sopa de cebola gratinada com queijo gruyere   R$ 32,
 
 ### Sugestão especial
 
-Linguine com camarões ao molho de champagne e parmentier de alho poró R$ 89
+Risoto de alho poró com camarões envoltos em parma crocante R$ 82
 
 ### Sugestão carne
 
-Bombom de filé mignon com peras assadas, arroz de salsa e molho gorgonzola R$ 74
+Tornedor de mignon com fetuccine ao funghi ao molho de vinho R$ 79
 
 ### Sugestão peixe
 
-Atum em crosta de gergelim com legumes orientais e teriyaki de maçã R$ 69
+Tilapia em crosta de pão com pure de batata doce roxa  R$ 62
+
+### Sugestão pato
+
+Arroz de pato com paio, azeitonas e crispy de cebola com páprica R$ 69
 
 ### Executiva
 
-Rabada desfiada com polenta e agrião   R$ 39
+Picanha suina com baião de dois e aipim frito   R$ 46
 
 ### Vegetariana
 
-Almôndegas de grão de bico com aveia em flocos e espaguete ao molho sugo  R$ 29
+Empadão de palmito com saladinha verde  R$ 34
 
 ### Sobremesa
 
-Torta de banana com sorvete de canela e calda de anis  R$ 14
+Hakuna com sorvete de baunilha  R$ 18
