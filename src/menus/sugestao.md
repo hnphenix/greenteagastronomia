@@ -1,36 +1,32 @@
 ---
-title: 07 de julho a 20 de julho de 2022
+title: 21 de julho a 03 de agosto de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Sopa de cebola gratinada com queijo gruyere   R$ 32,
+Caesar salad com camarão e croutons de salsa e alho   R$ 39,
 
 ### Sugestão especial
 
-Risoto de alho poró com camarões envoltos em parma crocante R$ 82
+Filet mignon ao molho bordelaise com rostie de batata recheada com queijo brie R$ 79
 
 ### Sugestão carne
 
-Tornedor de mignon com fetuccine ao funghi ao molho de vinho R$ 79
+Ossobuco com aligot e molho roti com cebolinha confit R$ 69
 
-### Sugestão peixe
+### Sugestão frutos do mar
 
-Tilapia em crosta de pão com pure de batata doce roxa  R$ 62
-
-### Sugestão pato
-
-Arroz de pato com paio, azeitonas e crispy de cebola com páprica R$ 69
+Risoto nero com frutos do mar (lula, camarão e mexilhão)  R$ 62
 
 ### Executiva
 
-Picanha suina com baião de dois e aipim frito   R$ 46
+Paillard de frango com espaguete na manteiga de sálvia e tomate seco  R$ 42
 
 ### Vegetariana
 
-Empadão de palmito com saladinha verde  R$ 34
+Estrogonofe de shiitake com arroz integral e palha de baroa R$ 42
 
-### Sobremesa
+**Sobremesa**
 
-Hakuna com sorvete de baunilha  R$ 18
+Mil folhas de morango com creme patissiere  R$ 18
