@@ -3,10 +3,6 @@ title: 21 de julho a 03 de agosto de 2022
 tags: menu_special
 permalink: false
 ---
-### Sugestão para dia 29
-
-Gnhocci de batata doce roxa com queijo de cabra R$ 32,00
-
 ### Entrada
 
 Caesar salad com camarão e croutons de salsa e alho   R$ 39,
