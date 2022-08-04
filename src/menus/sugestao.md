@@ -5,7 +5,7 @@ permalink: false
 ---
 ### Entrada
 
-Salada Lyonnaise (mix de folhas especiais, bacon, cogumelos frescos, ovo pochê e vinagrete de Dijon   R$ 30,
+Salada Lyonnaise (mix de folhas especiais, bacon, cogumelos frescos, ovo pochê e vinagrete de Dijon)   R$ 30,
 
 ### Sugestão especial
 
