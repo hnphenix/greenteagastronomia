@@ -1,32 +1,32 @@
 ---
-title: 21 de julho a 03 de agosto de 2022
+title: 04 a 17 de agosto de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Caesar salad com camarão e croutons de salsa e alho   R$ 39,
+Salada Lyonnaise (mix de folhas especiais, bacon, cogumelos frescos, ovo pochê e vinagrete de Dijon   R$ 30,
 
 ### Sugestão especial
 
-Filet mignon ao molho bordelaise com rostie de batata recheada com queijo brie R$ 79
+Filet mignon em crosta de ervas com palmito assado e molho mostarda anciene R$ 79,
 
-### Sugestão carne
+### Sugestão camarão
 
-Ossobuco com aligot e molho roti com cebolinha confit R$ 69
+Ravioli de camarão com fondue de grana padano R$ 44,
 
-### Sugestão frutos do mar
+### Sugestão peixe
 
-Risoto nero com frutos do mar (lula, camarão e mexilhão)  R$ 62
+Filé de pescada amarela com banana da terra assada, risoto siciliano e molho de duas passas  R$ 74,
 
 ### Executiva
 
-Paillard de frango com espaguete na manteiga de sálvia e tomate seco  R$ 42
+Gnocchi de batata doce roxa com queijo de cabra, presunto Parma e pimenta biquinho  R$ 35,
 
 ### Vegetariana
 
-Estrogonofe de shiitake com arroz integral e palha de baroa R$ 42
+Hambúrguer de lentilha com legumes à Provençal R$ 32,
 
 **Sobremesa**
 
-Mil folhas de morango com creme patissiere  R$ 18
+Petit gateau de mel com crumble de amêndoas e sorvete de pistache  R$ 26,
