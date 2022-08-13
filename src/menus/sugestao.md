@@ -13,7 +13,7 @@ Filet mignon em crosta de ervas com palmito assado e molho mostarda anciene R$ 7
 
 ### Sugestão camarão
 
-Ravioli de camarão com fondue de grana padano R$ 44,
+Ravioli de camarão com fondue de grana padano R$ 54,
 
 ### Sugestão peixe
 
