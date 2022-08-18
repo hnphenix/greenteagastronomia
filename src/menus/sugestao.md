@@ -1,32 +1,32 @@
 ---
-title: 04 a 17 de agosto de 2022
+title: 18 a 31 de agosto de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Salada Lyonnaise (mix de folhas especiais, bacon, cogumelos frescos, ovo pochê e vinagrete de Dijon)   R$ 30,
+Blinis com truta defumada, mix de folhas e vinagrete de laranja com mostarda e mel R$ 32,
 
 ### Sugestão especial
 
-Filet mignon em crosta de ervas com palmito assado e molho mostarda anciene R$ 79,
+Camarões  médios empanados sevidos com arroz cremoso de alho poró e molho aioly R$ 78,
 
-### Sugestão camarão
+### Sugestão risoto
 
-Ravioli de camarão com fondue de grana padano R$ 54,
+Risoto de abóbora com ragu de rabada, tomates marinados e flor de agrião R$ 52,
 
-### Sugestão peixe
+### Sugestão carne
 
-Filé de pescada amarela com banana da terra assada, risoto siciliano e molho de duas passas  R$ 74,
+Bife ancho com salada de batatinhas calabresas, brócolis, tomate cereja e shiitake com molho de azeite de alecrim e alho confit  R$ 69,
 
 ### Executiva
 
-Gnocchi de batata doce roxa com queijo de cabra, presunto Parma e pimenta biquinho  R$ 35,
+Filé de frango crocante com legumes assados e pesto de salsa  R$ 39,
 
 ### Vegetariana
 
-Hambúrguer de lentilha com legumes à Provençal R$ 32,
+Rondelli de espinafre ao molho sugo e manjericão fresco R$ 39,
 
-**Sobremesa**
+### Sobremesa
 
-Petit gateau de mel com crumble de amêndoas e sorvete de pistache  R$ 26,
+Mousse de chocolate branco e meio amargo com calda de amora  R$ 17,
