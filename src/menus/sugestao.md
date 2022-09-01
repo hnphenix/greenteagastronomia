@@ -1,32 +1,32 @@
 ---
-title: 18 a 31 de agosto de 2022
+title: 01 a 14 de setembro de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Blinis com truta defumada, mix de folhas e vinagrete de laranja com mostarda e mel R$ 32,
+Ceviche peruana com chips de batata doce R$ 35,
 
 ### Sugestão especial
 
-Camarões  médios empanados sevidos com arroz cremoso de alho poró e molho aioly R$ 78,
+Salmão com cebola confit, purê de baroa e maçãs grelhadas R$ 79,
 
-### Sugestão risoto
+### Sugestão camarão
 
-Risoto de abóbora com ragu de rabada, tomates marinados e flor de agrião R$ 52,
+Camarão no abacaxi com arroz de jasmim e salada verde R$ 78,
 
 ### Sugestão carne
 
-Bife ancho com salada de batatinhas calabresas, brócolis, tomate cereja e shiitake com molho de azeite de alecrim e alho confit  R$ 69,
+Steak ao poivre com arroz de shitake e batatinhas noisette R$ 78,
 
 ### Executiva
 
-Filé de frango crocante com legumes assados e pesto de salsa  R$ 39,
+Escalopinho de carne ao molho gorgonzola com farofa de ovos e fritas  R$ 44,
 
 ### Vegetariana
 
-Rondelli de espinafre ao molho sugo e manjericão fresco R$ 39,
+Espaguete de palmito à bolonhesa de soja R$ 42,
 
 ### Sobremesa
 
-Mousse de chocolate branco e meio amargo com calda de amora  R$ 17,
+Bolo de aipim com ganache de doce de leite e sorvete de tapioca  R$ 18,
