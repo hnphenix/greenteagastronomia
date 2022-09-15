@@ -1,32 +1,32 @@
 ---
-title: 01 a 14 de setembro de 2022
+title: 15 a 28 de setembro de 2022
 tags: menu_special
 permalink: false
 ---
 ### Entrada
 
-Ceviche peruana com chips de batata doce R$ 35,
+Mix de verdes com presunto Parma, melão, tomate cereja agridoce, lascas de parmesão e redução de balsâmico R$ 37,
 
 ### Sugestão especial
 
-Salmão com cebola confit, purê de baroa e maçãs grelhadas R$ 79,
-
-### Sugestão camarão
-
-Camarão no abacaxi com arroz de jasmim e salada verde R$ 78,
+Fettuccine com camarões, pimentões confitados ao molho bisque R$ 79,
 
 ### Sugestão carne
 
-Steak ao poivre com arroz de shitake e batatinhas noisette R$ 78,
+Tornedor de mignon com risoto de grana padano e molho de vinho do Porto R$ 79,
+
+### Sugestão peixe
+
+Atum selado na manteiga de gergelim com purê rústico de abóbora R$ 75,
 
 ### Executiva
 
-Escalopinho de carne ao molho gorgonzola com farofa de ovos e fritas  R$ 44,
+Yakissoba de carne com legumes R$ 38,
 
 ### Vegetariana
 
-Espaguete de palmito à bolonhesa de soja R$ 42,
+Polpetone vegetariano recheado com ricota acompanhado de salada verde R$ 37,
 
 ### Sobremesa
 
-Bolo de aipim com ganache de doce de leite e sorvete de tapioca  R$ 18,
+Petit gâteau de  nutella com sorvete de creme e coulis de morango R$ 24,
