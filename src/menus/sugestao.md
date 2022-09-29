@@ -1,32 +1,36 @@
 ---
-title: 15 a 28 de setembro de 2022
+title: 29 de setembro a 11 de outubro de 2022
 tags: menu_special
 permalink: false
 ---
-### Entrada
+### S﻿ugestão do dia 29/09
 
-Mix de verdes com presunto Parma, melão, tomate cereja agridoce, lascas de parmesão e redução de balsâmico R$ 37,
+G﻿nocchi de baroa com ragu de rabada e flor de agrião R$ 36,
+
+### E﻿ntrada
+
+Salada Grega R$ 30,
 
 ### Sugestão especial
 
-Fettuccine com camarões, pimentões confitados ao molho bisque R$ 79,
+Picanha argentina com risoto de funghi e molho bordelaise R$ 89,
 
-### Sugestão carne
+### Sugestão camarão
 
-Tornedor de mignon com risoto de grana padano e molho de vinho do Porto R$ 79,
+Camarão cremoso com arroz de coco e farofa de castanha de caju R$ 78,
 
-### Sugestão peixe
+### Sugestão massa
 
-Atum selado na manteiga de gergelim com purê rústico de abóbora R$ 75,
+Ravioli de cordeiro ao pesto de hortelã e amêndoas tostadas R$ 52,
 
 ### Executiva
 
-Yakissoba de carne com legumes R$ 38,
+Frango crocante com musseline de baroa e brócolis sauté R$ 36,
 
 ### Vegetariana
 
-Polpetone vegetariano recheado com ricota acompanhado de salada verde R$ 37,
+Quibe de forno com grão de bico e cenoura acompanhado de saladinha de rúcula e tomate cereja R$ 32,
 
 ### Sobremesa
 
-Petit gâteau de  nutella com sorvete de creme e coulis de morango R$ 24,
+Churros recheado com brigadeiro e sorvete de baunilha R$ 16,
