@@ -3,10 +3,6 @@ title: 29 de setembro a 11 de outubro de 2022
 tags: menu_special
 permalink: false
 ---
-### S﻿ugestão do dia 29/09
-
-G﻿nocchi de baroa com ragu de rabada e flor de agrião R$ 36,
-
 ### E﻿ntrada
 
 Salada Grega R$ 30,
