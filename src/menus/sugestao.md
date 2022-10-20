@@ -1,32 +1,32 @@
 ---
-title: 29 de setembro a 11 de outubro de 2022
+title: 20 de outubro a 02 de novembro de 2022
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Salada Grega R$ 30,
+Mexilhões frescos com creme de vinho branco, torrada de focaccia e fritas  R$ 54,
 
 ### Sugestão especial
 
-Picanha argentina com risoto de funghi e molho bordelaise R$ 89,
+Ossobuco com musseline de inhame e cogumelos frescos  R$ 78,
 
-### Sugestão camarão
+### Sugestão carne
 
-Camarão cremoso com arroz de coco e farofa de castanha de caju R$ 78,
+M﻿edalhão de  mignon envolto de Parma com risoto de brie e molho de damasco  R$ 75,
 
 ### Sugestão massa
 
-Ravioli de cordeiro ao pesto de hortelã e amêndoas tostadas R$ 52,
+T﻿alharim ao pescatore (lula, polvo e camarões)  R$ 62,
 
 ### Executiva
 
-Frango crocante com musseline de baroa e brócolis sauté R$ 36,
+D﻿obradinha com arroz branco e farofa picante  R$ 39,
 
 ### Vegetariana
 
-Quibe de forno com grão de bico e cenoura acompanhado de saladinha de rúcula e tomate cereja R$ 32,
+Rostie de baroa com queijo de cabra, ovo poché ao aioli de espinafre e crispy de alho poró  R$ 44,
 
 ### Sobremesa
 
-Churros recheado com brigadeiro e sorvete de baunilha R$ 16,
+Carpaccio de frutas com sorvete de pistache e coulis de amora  R$ 18,
