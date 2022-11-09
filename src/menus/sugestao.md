@@ -5,7 +5,7 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Mexilhões frescos com creme de vinho branco, torrada de focaccia e fritas  R$ 54,00
+Mexilhões frescos com creme de vinho branco, torrada de focaccia e fritas  R$ 54,00m
 
 ### Sugestão especial
 
