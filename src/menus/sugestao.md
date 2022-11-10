@@ -1,32 +1,32 @@
 ---
-title: 20 de outubro a 02 de novembro de 2022
+title: 10 a 23 de novembro de 2022
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Mexilhões frescos com creme de vinho branco, torrada de focaccia e fritas  R$ 54,00m
+Bruschetta de queijo brie e Parma no pão de fermentação natural  R$ 39,
 
 ### Sugestão especial
 
-Ossobuco com musseline de inhame e cogumelos frescos  R$ 78,00
+Camarão VG à Provençal com arroz negro  R$ 90,
 
 ### Sugestão carne
 
-M﻿edalhão de  mignon envolto de Parma com risoto de brie e molho de damasco  R$ 75,00
+Filet mignon em crosta de castanha com batata canoa frita e molho de parmesão  R$ 72,
 
-### Sugestão massa
+### Sugestão peixe
 
-T﻿alharim ao pescatore (lula, polvo e camarões)  R$ 62,00
+Salmão grelhado com molho antiboise e risotto de laranja  R$79,
 
 ### Executiva
 
-D﻿obradinha com arroz branco e farofa picante  R$ 39,00
+Assado com batata calabresa picante e arroz à grega  R$ 42,
 
 ### Vegetariana
 
-Rostie de baroa com queijo de cabra, ovo poché ao aioli de espinafre e crispy de alho poró  R$ 44,00
+Ravioli de pêra com molho gorgonzola e nozes  R$ 42,
 
 ### Sobremesa
 
-Carpaccio de frutas com sorvete de pistache e coulis de amora  R$ 18,00
+Vol au vent de morango com chantilly  R$ 18,
