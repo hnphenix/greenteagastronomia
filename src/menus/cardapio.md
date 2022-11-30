@@ -1,100 +1,109 @@
 ---
-title: Cardápio
+title: Cardápio a partir de 01 de dezembro
 tags: menus
 permalink: false
 ---
 ### ENTRADAS
 
-* Cesta de pães, pasta do dia e manteiga de ervas - R$ 18,00
-* Cubinhos de tapioca com dois molhos (pimenta agridoce e melaço) - R$ 20,00
-* Brie à milanesa com caramelo de damasco e torradas - R$ 41,00
-* Steak tartar com torradinhas de focaccia - R$ 50,00
-* Tartar de salmão com sour cream e torradinhas de focaccia R$ 50,00
-* Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas R$ 50,00
-* Carpaccio semi-grelhado em crosta de pimenta c/ fatia de pão rústico - R$ 52,00
-* Polvo ao vinagrete com torradas - R$ 52,00
-* Trio de bruschettas - R$ 37,00
-* Croquete de carne Alemão (10 und) - R$ 39,00
-* Croquete de carne / Mini quibe / Bolinha de queijo (12 und) - R$ 24,00
-* Bolinho de bacalhau (12 und) - R$ 39,00
-* Porção de pastel camarão, carne ou queijo (04 unid) - R$ 16,00
+* Cesta de pães, pasta do dia e manteiga de ervas - R$ 20,00
+* Dadinho de tapioca com melaço e geleia de pimenta - R$ 22,00
+* Brie à milanesa com caramelo de damasco e torradas - R$ 44,00
+* Tartar de salmão com sour cream e torradinhas de focaccia R$ 54,00
+* Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas R$ 55,00
+* Carpaccio semi-grelhado em crosta de pimenta c/ fatia de pão rústico - R$ 55,00
+* Bruschetta de queijo de cabra no pão de fermentação natural e chutney de tomate - R$ 38,00
+* C﻿eviche peruano - R$ 35,00
+* L﻿ulas crocantes com molho aioli de paprika picante - R$ 42,00
+* Croquete de carne Alemão (10 und) - R$ 41,00
+* Croquete de carne / Mini quibe / Bolinha de queijo (12 und) - R$ 25,00
+* Bolinho de bacalhau (12 und) - R$ 42,00
+* Porção de pastel camarão, carne ou queijo (04 unid) - R$ 17,00
 
 ### SOPAS
 
-* Caldo verde - R$ 30,00
-* Canja - R$ 22,00
+* Caldo verde - R$ 33,00
+* Abóbora com gorgonzola - R$ 36,00
 
 ### SALADAS
 
-* Caesar salad com tiras de frango - R$ 32,00
-* Salada de queijos e frutas ao vinagrete de mostarda - R$ 42,00
-* Salpicão de frango com batata palha - R$ 32,00
-* Omelete marguerita com salada verde - R$ 34,00
+* Caesar salad com tiras de frango - R$ 35,00
+* Salada de queijos e frutas ao vinagrete de mostarda - R$ 45,00
+* M﻿ix de folhas com parma, melão, tomate agridoce, lascas de parmesão e redução de balsâmico - R$ 48,00
+* Salpicão de frango com batata palha - R$ 35,00
+* V﻿erdes especiais com torrada de queijo de cabra e parma crocante - 38,00
+* Omelete marguerita com salada verde - R$ 37,00
 
 ### CARNE
 
-* Picadinho de carne com arroz maluco, banana frita e farofa na manteiga - R$ 56,00
-* Filet mignon ao molho de mostarda com batata frita - R$ 66,00
-* Paillard à milanesa com fettuccini à Alfredo - R$ 50,00
-* Medalhão ao molho madeira com arroz à piamontese - R$ 64,00
-* Estrogonofe de carne com batata palha e arroz branco - R$ 55,00
-* Contra Filet à Oswaldo Aranha - R$ 63,00
+* Picadinho de carne com arroz maluco, banana frita e farofa na manteiga - R$ 59,00
+* Paillard à milanesa com salada caprese ao pesto - R$ 57,00
+* Medalhão ao molho madeira com arroz à piamontese - R$ 69,00
+* F﻿ilet mignon ao molho mostarda com batata canoa - R$ 70,00
+* F﻿ilet mignon ao vinho tinto com ravioli de pera ao parmesão - R$ 72,00
+* D﻿obradinha a moda do chef com arroz branco e farofa - R$ 39,00
+* A﻿ssado de forno com cubinhos de abóbora e arroz à grega - R$ 59,00
 
 ### AVES
 
-* Filet de frango empanado no parmesão com creme de milho e arroz de brócolis - R$ 38,00
-* Estrogonofe de frango com fritas e arroz branco - R$ 34,00
-* Filet de frango gratinado com catupiry, banana frita e batata frita - R$ 41,00
-* Frango empanado recheado de catupiry com hortelã e legumes assados - R$ 45,00
-* Filet de frango acebolado com purê de batata - R$ 32,00
-* Sobrecoxa desossada em crosta de cebola c/ arroz à Grega - R$ 34,00
+* Frango empanado na panko com musseline de baroa e brócolis sauteé - R$ 48,00
+* Estrogonofe de frango com batata palha e arroz branco - R$ 37,00 
+* Filet de frango gratinado com catupiry, banana frita e batata frita - R$ 46,00
+* Filet de frango ao pesto com legumes assados - R$ 44,00
+* Filet de frango acebolado com purê de batata - R$ 35,00
+* Sobrecoxa desossada em crosta de cebola c/ arroz à Grega - R$ 37,00
 
 ### PEIXES
 
-* Bobó de camarão com arroz branco e farofa de dendê - R$ 54,00
-* Peixe à milanesa ao molho de camarão com purê de batata - R$ 65,00
-* Tilápia ao molho de alcaparras e legumes assados - R$ 59,00
-* Risoto de camarão com limão siciliano e Parma crocante - R$ 52,00
-* Peixe crocante com arroz de camarão e ervilhas frescas - R$ 60,00
+* Bobó de camarão com arroz branco e farofa de dendê - R$ 58,00
+* S﻿almão grelhado com legumes salteados e aioli de maracujá - R$ 79,00
+* Tilápia ao molho de alcaparras e legumes assados - R$ 65,00
+* Risoto de camarão com limão siciliano - R$ 58,00
+* C﻿amarão ao comodoro - R$ 90,00
+* Peixe crocante com arroz de camarão e ervilhas frescas - R$ 68,00
+* P﻿eixe ao molho de limão siciliano com arroz negro e ninho de alho poró - R$ 72,00
 
 ### MASSAS
 
-* Lasanha à bolonhesa - R$ 39,00
-* Involtini de abobrinha com ricota temperada gratinado ao molho de tomate e parmesão - R$ 37,00
-* Ravioli verde de búfala ao molho de tomates frescos e manjericão - R$ 49,00
-* Fettuccine à Alfredo - R$ 35,00
-* PRATOS KID’S (SERVIÇO EMPRATADO)
-* Bifinho de frango com arroz, feijão, batatinha sorriso e ovo mexido - R$ 35,00
-* Bifinho de carne com arroz, feijão, batatinha sorriso e ovo mexido - R$ 38,00
-* Espaguete com carninha moída (com ou sem molho de tomate) - R$ 32,00
+* Lasanha à bolonhesa - R$ 42,00
+* E﻿mpadão de camarão com salada verde - R$ 46,00
+* Involtini de abobrinha com ricota temperada gratinado ao molho de tomate e parmesão - R$ 42,00
+* Ravioli verde de búfala ao molho de tomates frescos e manjericão - R$ 53,00
+* Fettuccine com mix de cogumelos trufados - R$ 49,00
+* R﻿avioli de pato confit ao molho de laranja com nozes caramelizadas - R$ 58,00
+
+**PRATOS KID’S (SERVIÇO EMPRATADO)**
+
+* Bifinho de frango com arroz, feijão, batatinha frita e ovo mexido - R$ 37,00
+* Bifinho de carne com arroz, feijão, batatinha frita e ovo mexido - R$ 41,00 
+* Espaguete com carninha moída (com ou sem molho de tomate) - R$ 34,00
 
 ### SOBREMESAS
 
-* Sorvete simples - R$9,00
-* Pudim - R$ 12,00
-* Torta Alemã (fatia) - R$ 16,00
-* Torta morna de chocolate com sorvete de creme - R$ 25,00
-* Brownie com sorvete de creme - R$ 22,00
-* Banana dourada com sorvete de creme - R$ 19,00
-* Creme de papaia com cassis - R$ 19,00
-* Strudel de maçã diet - R$ 19,00
-* Mousse de Ovomaltine com chantilly e flocos crocantes - R$ 22,00
-* Goiabada cascão cremosa com sorvete de queijo - R$ 26,00
-* Sorvete de queijo com calda morna de goiabada - R$ 24,00
-* Petit gateau de chocolate com sorvete de creme - R$ 24,00
+* Sorvete simples - R$9,50
+* S﻿orvete de frutas diet - R$ 16,00
+* Pudim - R$ 13,00
+* Torta morna de chocolate com sorvete de creme - R$ 27,00
+* Banana dourada com sorvete de creme - R$ 21,00
+* Creme de papaia com cassis - R$ 20,00
+* Strudel de maçã diet - R$ 21,00
+* D﻿oce de abóbora caseiro com sorvete de tapioca e coco queimado - R$ 25,00
+* C﻿hurros de doce de leite com sorvete de pistache - R$ 22,00
+* Sorvete de queijo com calda morna de goiabada - R$ 25,00
+* Petit gateau de chocolate com sorvete de creme - R$ 25,00
 * Frutas da estação - R$ 16,00
 
 ### PIZZAS (APÓS ÀS 17H)
 
-* Branca com sal grosso e alecrim - R$ 21,00
-* Mozzarella - R$ 34,00
-* Camarão com alho poró - R$ 39,00
-* Marguerita - R$ 34,00
-* Calabresa - R$ 34,00
-* Portuguesa - R$ 34,00
-* Quatro queijos - R$ 35,00
-* Banana com chocolate - R$ 38,00
-* Goiabada com queijo - R$ 32,00
+* Branca com sal grosso e alecrim - R$ 22,00
+* Mozzarella - R$ 36,00
+* Camarão com alho poró - R$ 42,00
+* Marguerita - R$ 36,00
+* Calabresa - R$ 36,00
+* Portuguesa - R$ 36,00
+* Quatro queijos - R$ 38,00
+* B﻿rócolis com alho - R$ 38,00
+* P﻿arma com tomate seco e rúcula - R$ 45,00
+* Banana com chocolate - R$ 40,00
 
 ## CARTA DE BEBIDAS
 
