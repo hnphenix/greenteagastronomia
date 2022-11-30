@@ -164,8 +164,8 @@ permalink: false
 
 ### GIN TÔNICAS
 
-* Águas de verão - Gin Importado com tônica, casca de limão siciliano e casca de tangerina e zimbro R$ 31,00
-* Green Gin - Tônica, chá verde, gengibre e casca de limão siciliano R$ 31,00
-* Tangin - Tônica, tangerina, alecrim e zimbro R$ 31,00
-* Pink Tonic - Tônica, chá de frutas vermelhas, morango fatiado, maracujá e folhas de hortelã R$ 31,00
-* Gin tônica- Tônica, limão e zimbro R$ 29,00
+* Águas de verão - Gin Importado com tônica, casca de limão siciliano e casca de tangerina e zimbro R$ 33,00
+* Green Gin - Tônica, chá verde, gengibre e casca de limão siciliano R$ 33,00
+* Tangin - Tônica, tangerina, alecrim e zimbro R$ 33,00
+* Pink Tonic - Tônica, chá de frutas vermelhas, morango fatiado, maracujá e folhas de hortelã R$ 33,00
+* Gin tônica- Tônica, limão e zimbro R$ 30,00
