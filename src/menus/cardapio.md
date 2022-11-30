@@ -110,32 +110,31 @@ permalink: false
 ### CAFÉ E CHÁ
 
 * Chá - R$ 5,00
-* Café expresso - R$ 5,50
-* Capuccino - R$ 6,50
-* Café descafeinado - R$ 8,50
+* Café expresso - R$ 6,00
+* Capuccino - R$ 7,00
+* Café descafeinado - R$ 9,00
 
 ### BEBIDAS
 
-* Água c/ gás e s/ gás - R$ 5,00
+* Água c/ gás e s/ gás - R$ 5,50
 * Mate leão - R$ 6,50
-* Refrigerante (lata) - R$ 6,80
-* Água de coco (coco legal) - R$ 8,50
+* Refrigerante (lata) - R$ 7,00
+* Água de coco (coco legal) - R$ 9,00
 * Laranja Legal - R$ 9,00
-* Suco Green People - R$ 10,00
+* Suco Green People - R$ 11,00
 
 ### CERVEJAS
 
 * Cerveja Therezopolis - R$ 19,00
-* Cerveja Antarctica Original 600 ml - R$ 15,00
+* Cerveja Antarctica Original 600 ml - R$ 16,00
 * Cerveja Estrella Galícia 600ml - R$ 15,00
-* Cerveja Brahma duplo malte (600ml) - R$ 15,00
-* Cerveja Amstel (600ml) R$ 15,00
-* Cerveja Spaten (600ml) - R$ 16,00
-* Cerveja Heineken 600 ml - R$ 16,00
-* Cerveja Becks 600ml - R$ 16,00
-* Cerveja Stella Artois long neck (330ml) - R$ 9,00
-* Cerveja Heineken long neck (330ml) - R$ 10,00
-* Cerveja Becks long neck (330ml) - R$ 10,00
+* Cerveja Amstel (600ml) R$ 16,00
+* C﻿erveja Spaten (600ml) R$ 17,00
+* Cerveja Heineken 600 ml - R$ 17,00
+* Cerveja Becks 600ml - R$ 17,00
+* Cerveja Stella Artois long neck (330ml) - R$ 9,50
+* Cerveja Heineken long neck (330ml) - R$ 10,50
+* Cerveja Becks long neck (330ml) - R$ 10,50
 * Chopp - R$ 10,00
 
 ### DRINKS
