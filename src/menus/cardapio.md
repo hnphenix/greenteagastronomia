@@ -151,16 +151,16 @@ permalink: false
 ### CAIPIRINHAS TRADICIONAIS
 
 * Limão, lima ou abacaxi
-* Caipirinha - R$ 14,00 e Salinas - R$ 16,00
-* Caipivodka - R$ 20,00 e Absolut - R$ 25,00
+* Caipirinha - R$ 15,00 e Salinas - R$ 17,00
+* Caipivodka - R$ 21,00 e Absolut - R$ 26,00
 
 ### CAIPIRINHAS ESPECIAIS
 
 * Melancia com maracujá e gengibre
 * Morango com maracujá e manjericão
 * Limão com abacaxi e hortelã
-* Caipirinha R$ 17,50 e Salinas R$ 18,50
-* Caipivodka R$ 22,00 e Absolut R$ 27,00
+* Caipirinha R$ 18,00 e Salinas R$ 19,00
+* Caipivodka R$ 23,00 e Absolut R$ 28,00
 
 ### GIN TÔNICAS
 
