@@ -1,5 +1,5 @@
 ---
-title: Cardápio a partir de 01 de dezembro
+title: Cardápio
 tags: menus
 permalink: false
 ---
