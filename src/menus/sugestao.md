@@ -1,5 +1,5 @@
 ---
-title: .
+title: .Sugestões novas em janeiro. Enquanto isso, curta nosso novo cardápio!
 tags: menu_special
 permalink: false
 ---
