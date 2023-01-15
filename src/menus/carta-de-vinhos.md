@@ -61,7 +61,7 @@ permalink: false
 
 **Uruguai**
 
-* Don Pascoal tannat- R$ 86,00
+* Don Pascoal tannat- R$ 79,00
 
 **Estados Unidos**
 
@@ -69,7 +69,7 @@ permalink: false
 
 **Africa do Sul**
 
-* African Heritage - R$ 92,00
+* African Heritage - R$ 120,00
 
 **França**
 
