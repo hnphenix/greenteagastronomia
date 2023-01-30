@@ -253,6 +253,29 @@ textarea {
 	margin: 10px 0;
 }
 
+.btn-orcamento {
+	width: 70px;
+	height: 70px;
+	display: block;
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+	outline: none;
+	text-decoration: none;
+}
+.btn-orcamento::after {
+	content: "Solicite um Orçamento!";
+	background-color: #ffab0a;
+	color: #000;
+	font-weight: bold;
+  font-size: 16px;
+	position: relative;
+	margin-left: -265px;
+	bottom: 25px;
+	padding: 5px;
+	border-radius: 10px;
+}
+
 @media only screen and (min-width: 780px) {
 	.logo {
 		width: 250px;
