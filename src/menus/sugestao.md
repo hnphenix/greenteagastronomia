@@ -1,32 +1,32 @@
 ---
-title: 09 a 22 de fevereiro de 2023
+title: 24 de fevereiro a 08 de março de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-M﻿ix de folhas especiais com shiitake, queijo brie e vinagrete de especiarias R$ 34,00
+S﻿alada verde com truta defumada, rabanete, tomatinhos cereja e croutons R$ 34,
 
-### Sugestão especial (para compartilhar)
+### Sugestão especial 
 
-Prime rib com batatas rústicas ao alecrim, arroz à Piamontese e molho de vinho tinto R$ 120,00
+F﻿ilé de linguado com couscous marroquino e molho de camarão R$ 79,
 
-### Sugestão frutos do mar
+### Sugestão carne
 
-Risoto nero de cavaquinhas grelhadas e zest de limão siciliano R$ 96,00
+Filé ao gorgonzola com risoto de pera e nozes confit R$ 69,
 
-### Sugestão peixe
+### Sugestão frango
 
-Filé de dourado com creme de espinafre, palmito pupunha sauté e molho de alcaparras e castanhas R$ 72,00
+Frango crocante com arroz de brócolis e creme de milho R$ 42,
 
 ### Executiva
 
-Presunto defumado com arroz à grega e molho de manga com pimenta rosa R$ 39,00
+E﻿spaguete à carbonara com farofinha de Parma R$ 36,
 
 ### Vegetariana
 
-Rondelli recheado com pera ao molho suave de gorgonzola e nozes R$ 37,00
+P﻿olpetone de soja recheado com queijo cottage e legumes assados R$ 37,
 
 ### Sobremesa
 
-Coupe de manga com crumble de amêndoas R$ 18,00
+M﻿il folhas de Nutella com creme patissiere R$ 17,
