@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-S﻿alada verde com truta defumada, rabanete, tomatinhos cereja e croutons R$ 34,
+Mix de verdes com queijos e frutas ao vinagrete de maracujá R$ 30
 
-### Sugestão especial 
+### Sugestão especial
 
-F﻿ilé de linguado com couscous marroquino e molho de camarão R$ 79,
+Filé de pescada amarela com legumes salteados no azeite e molho aili de limão siciliano R$ 42
 
 ### Sugestão carne
 
-Filé ao gorgonzola com risoto de pera e nozes confit R$ 69,
+F R$ 69,ilé de frango com arroz maluco, farofa de ovos e molho chimichurry R$ 42
 
 ### Sugestão frango
 
-Frango crocante com arroz de brócolis e creme de milho R$ 42,
+Tornedor de filé mignon com aligot e Beurre noisette de alecrim R$ 69
 
 ### Executiva
 
-E﻿spaguete à carbonara com farofinha de Parma R$ 36,
+Costelinha suína com barbecue de goiaba e batatinha canoa R$ 42
 
 ### Vegetariana
 
-P﻿olpetone de soja recheado com queijo cottage e legumes assados R$ 37,
+Involtini de beringela recheado cm queijo minas, tomate seco e manjericão fresco ao molho de sugo
 
 ### Sobremesa
 
-M﻿il folhas de Nutella com creme patissiere R$ 17,
+Profiterolis com sorvete de baunilha e calda morna de chocolate R$ 28
