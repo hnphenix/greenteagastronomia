@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Mix de verdes com queijos e frutas ao vinagrete de maracujá R$ 30
+Mix de verdes, pepino agridoce, cebola roxa assada, ovos de codorna, lascas de parmesão e vinagrete de salsa R$ 29
 
 ### Sugestão especial
 
-Filé de pescada amarela com legumes salteados no azeite e molho aili de limão siciliano R$ 42
+T-Bone grelhado com risoto de açafrão da terra, echaotes caramelizadas e molho de mostarda anciene R$ 115
 
-### Sugestão carne
+### Sugestão peixe
 
-F R$ 69,ilé de frango com arroz maluco, farofa de ovos e molho chimichurry R$ 42
+Atum selado em crosta de gergelim, legumes orientais e teriyaki de maçã R$ 79
 
-### Sugestão frango
+### Sugestão risoto
 
-Tornedor de filé mignon com aligot e Beurre noisette de alecrim R$ 69
+Risoto de queijo brie com presunto Parma, geleia de damasco e mini rúcula orgânica   R$ 52  
 
 ### Executiva
 
-Costelinha suína com barbecue de goiaba e batatinha canoa R$ 42
+Paillard de frango empanado com fettuccine Alfredo, tomate seco e manjericão fresco R$ 40
 
 ### Vegetariana
 
-Involtini de beringela recheado cm queijo minas, tomate seco e manjericão fresco ao molho de sugo
+Tempeh de soja orgânica levemente grelhado com saladinha verde R$ 39
 
 ### Sobremesa
 
-Profiterolis com sorvete de baunilha e calda morna de chocolate R$ 28
+Mousse de ovomaltine com chantilly R$ 18
