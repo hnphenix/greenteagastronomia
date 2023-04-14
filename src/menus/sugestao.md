@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Mix de verdes, pepino agridoce, cebola roxa assada, ovos de codorna, lascas de parmesão e vinagrete de salsa R$ 29
+Brandade de bacalhau com azeitonas pretas R$ 29
 
 ### Sugestão especial
 
-T-Bone grelhado com risoto de açafrão da terra, echaotes caramelizadas e molho de mostarda anciene R$ 115
+Filé de namorado com camarões médios flambados no conhaque, arroz de brócolis e chantilly de limão R$ 120
 
-### Sugestão peixe
+### Sugestão carne
 
-Atum selado em crosta de gergelim, legumes orientais e teriyaki de maçã R$ 79
+Filé mignon com molho de açaí e batata gratin R$ 69
 
-### Sugestão risoto
+### Sugestão frutos do mar
 
-Risoto de queijo brie com presunto Parma, geleia de damasco e mini rúcula orgânica   R$ 52  
+Polvo à lagareira R$ 115
 
 ### Executiva
 
-Paillard de frango empanado com fettuccine Alfredo, tomate seco e manjericão fresco R$ 40
+Filé de sobrecoxa gratinada com creme de espinafre e farofa de banana R$ 37
 
 ### Vegetariana
 
-Tempeh de soja orgânica levemente grelhado com saladinha verde R$ 39
+Quibe de abóbora com arroz integral de alho poró, amêndoas e tofu defumado R$ 28
 
 ### Sobremesa
 
-Mousse de ovomaltine com chantilly R$ 18
+Torta tricolor de chocolate com coulis de morango R$ 17
