@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Brandade de bacalhau com azeitonas pretas R$ 29
+B﻿ruschetta de focaccia, maionese de alho e coentro com bouquet de folhas verdes R$ 12
 
 ### Sugestão especial
 
-Filé de namorado com camarões médios flambados no conhaque, arroz de brócolis e chantilly de limão R$ 120
+Contra filé com salada fria de batata, ovo e ciboulette ao molho chimichurri R$ 72
 
-### Sugestão carne
+### Sugestão peixe
 
-Filé mignon com molho de açaí e batata gratin R$ 69
+Filé de peixe ao molho de moqueca de camarão no leito de banana e arroz cremoso de coco R$ 70
 
-### Sugestão frutos do mar
+### Sugestão massa
 
-Polvo à lagareira R$ 115
+Sorrentinos recheados com queijo defumado, tomates confitados e manjericão ao molho suave de tomate R$ 36
 
 ### Executiva
 
-Filé de sobrecoxa gratinada com creme de espinafre e farofa de banana R$ 37
+Língua ao Madeira com purê de batata R$ 32
 
 ### Vegetariana
 
-Quibe de abóbora com arroz integral de alho poró, amêndoas e tofu defumado R$ 28
+Poke de mix de cogumelos e semente de gergelim torrado R$ 29
 
-### Sobremesa
+### Sobremesa peruana clássica
 
-Torta tricolor de chocolate com coulis de morango R$ 17
+Suspiro limeño R$ 15
