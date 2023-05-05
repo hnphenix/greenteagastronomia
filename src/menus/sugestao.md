@@ -1,32 +1,28 @@
 ---
-title: 06 de Abril a 19 de Abril de 2023
+title: 05 a 17 de maio de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-B﻿ruschetta de focaccia, maionese de alho e coentro com bouquet de folhas verdes R$ 12
+S﻿alada de verdes com muçarela de búfala, tomate seco e chips de batata doce ao vinagrete balsâmico R$ 14,
 
 ### Sugestão especial
 
-Contra filé com salada fria de batata, ovo e ciboulette ao molho chimichurri R$ 72
+Filet de namorado em crosta de castanhas com risoto de limão siciliano e tomatinhos confit R$ 86,
 
-### Sugestão peixe
+### Sugestão carne
 
-Filé de peixe ao molho de moqueca de camarão no leito de banana e arroz cremoso de coco R$ 70
-
-### Sugestão massa
-
-Sorrentinos recheados com queijo defumado, tomates confitados e manjericão ao molho suave de tomate R$ 36
+Saltimboca de mignon com vol au vent de pera, parmesão e gremolata de rúcula R$ 64,
 
 ### Executiva
 
-Língua ao Madeira com purê de batata R$ 32
+Carne seca com purê de abóbora e aipim frito R$ 34,
 
 ### Vegetariana
 
-Poke de mix de cogumelos e semente de gergelim torrado R$ 29
+Almôndegas de lentilhas ao molho de tomates e arroz integral R$ 29,
 
-### Sobremesa peruana clássica
+### Sobremesa 
 
-Suspiro limeño R$ 15
+Banana grelhada com canela e açúcar e sorvete de canela R4 14,
