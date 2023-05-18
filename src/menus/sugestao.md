@@ -1,28 +1,32 @@
 ---
-title: 05 a 17 de maio de 2023
+title: 18 a 31 de maio de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-S﻿alada de verdes com muçarela de búfala, tomate seco e chips de batata doce ao vinagrete balsâmico R$ 14,
+R﻿oll recheado de salmão e manga com flocos de milho e shoyu doce (10 peças) R$ 38,00
 
 ### Sugestão especial
 
-Filet de namorado em crosta de castanhas com risoto de limão siciliano e tomatinhos confit R$ 86,
+Filé de salmão com espaguete de palmito pupunha e pimenta biquinho ao teriyaki R$ 79,00
 
 ### Sugestão carne
 
-Saltimboca de mignon com vol au vent de pera, parmesão e gremolata de rúcula R$ 64,
+Contra filé à Oswaldo Aranha R$ 72,00
+
+### Sugestão massa
+
+Tagliarini ao pesto com burrata e tomates assados R$ 55,00
 
 ### Executiva
 
-Carne seca com purê de abóbora e aipim frito R$ 34,
+Frango xadrez com arroz branco R$ 39,00
 
 ### Vegetariana
 
-Almôndegas de lentilhas ao molho de tomates e arroz integral R$ 29,
+Hamburguer de cogumelos com tomate grelhado e geleia de pimenta no pão de beterraba, batata frita OU salada verde R4 32,00
 
-### Sobremesa 
+### Sobremesa
 
-Banana grelhada com canela e açúcar e sorvete de canela R4 14,
+Pavlova de caqui R$ 16,00
