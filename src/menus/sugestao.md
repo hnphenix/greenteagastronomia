@@ -1,32 +1,32 @@
 ---
-title: 18 a 31 de maio de 2023
+title: 01 a 14 de junho de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-R﻿oll recheado de salmão e manga com flocos de milho e shoyu doce (10 peças) R$ 38,00
+Tataki de atum levemente grelhado com maçã verde, aipo e vinagrete de maracujá R$ 38,
 
 ### Sugestão especial
 
-Filé de salmão com espaguete de palmito pupunha e pimenta biquinho ao teriyaki R$ 79,00
+Ragu de costela angus com risoto de grana padano e broto de agrião orgânico R$ 89,
 
 ### Sugestão carne
 
-Contra filé à Oswaldo Aranha R$ 72,00
+Tornedor de mignon envolto em parma ao molho poivre com rosti de baroa R$ 79,
 
-### Sugestão massa
+### Sugestão frutos do mar
 
-Tagliarini ao pesto com burrata e tomates assados R$ 55,00
+Arroz negro de polvo com ervilhas e telha de parmesão R4 130,
 
 ### Executiva
 
-Frango xadrez com arroz branco R$ 39,00
+Almôndegas de carne ao molho de tomates rústicos e espaguete na manteiga R$39,
 
 ### Vegetariana
 
-Hamburguer de cogumelos com tomate grelhado e geleia de pimenta no pão de beterraba, batata frita OU salada verde R4 32,00
+Tempeh de soja orgânica com salada quente de shiitake, vagem francesa, brócolis e tomatinhos R$ 32,
 
 ### Sobremesa
 
-Pavlova de caqui R$ 16,00
+Pudim de tapioca com sorvete de queijo, coulis de lichia e flor de sal R$ 26,
