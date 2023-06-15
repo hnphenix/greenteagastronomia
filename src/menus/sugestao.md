@@ -1,32 +1,32 @@
 ---
-title: 01 a 14 de junho de 2023
+title: 15 a 28 de junho de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Tataki de atum levemente grelhado com maçã verde, aipo e vinagrete de maracujá R$ 38,
+Bruschetta com cogumelo Paris no pão de fermentação natural e um leve toque de aziete de trufas R$ 38,
 
 ### Sugestão especial
 
-Ragu de costela angus com risoto de grana padano e broto de agrião orgânico R$ 89,
+T-Bone ao molho chimichurri e batatas ao murro com queijo e alho assado R$ 120,
 
-### Sugestão carne
+### Sugestão peixe
 
-Tornedor de mignon envolto em parma ao molho poivre com rosti de baroa R$ 79,
+Pescada amarela ao molho escabeche com arroz e pirão R$ 89,
 
-### Sugestão frutos do mar
+### Sugestão risoto
 
-Arroz negro de polvo com ervilhas e telha de parmesão R4 130,
+Risoto de lulas e mexilhões com palmito e palha de alho poró R$ 48,
 
 ### Executiva
 
-Almôndegas de carne ao molho de tomates rústicos e espaguete na manteiga R$39,
+Filé de sobrecoxa grelhado ao molho bechamel e purê de manjericão R$ 34,
 
 ### Vegetariana
 
-Tempeh de soja orgânica com salada quente de shiitake, vagem francesa, brócolis e tomatinhos R$ 32,
+Farfalle integral com molho suave de queijo, brócolis e tomatinhos grape R$ 36,
 
 ### Sobremesa
 
-Pudim de tapioca com sorvete de queijo, coulis de lichia e flor de sal R$ 26,
+Vol au vent de peras ao vinho  com nozes confit e flores comestiveis R$ 28,
