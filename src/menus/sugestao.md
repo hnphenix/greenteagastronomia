@@ -17,7 +17,7 @@ Pescada amarela ao molho escabeche com arroz e pirão R$ 89,
 
 ### Sugestão risoto
 
-Risoto de lulas e mexilhões com palmito e palha de alho poró R$ 48,
+Risoto de lulas e mexilhões com palmito e palha de alho poró R$ 56
 
 ### Executiva
 
