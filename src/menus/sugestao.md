@@ -1,32 +1,32 @@
 ---
-title: 15 a 28 de junho de 2023
+title: 29 de junho s 12 de julho de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Bruschetta com cogumelo Paris no pão de fermentação natural e um leve toque de aziete de trufas R$ 38,
+Salada de rúcula com queijo brie crocante, maçã verde, damasco e vinagrete siciliano R$ 32,
 
 ### Sugestão especial
 
-T-Bone ao molho chimichurri e batatas ao murro com queijo e alho assado R$ 120,
+Filé de namorado ao molho de camarões com risoto de aspargos brancos e tomatinhos agridoce R$ 94,
 
-### Sugestão peixe
+### Sugestão carne
 
-Pescada amarela ao molho escabeche com arroz e pirão R$ 89,
+Filé mignon em crosta de parmesão com galette de batata doce e molho de mostarda em grão R$ 76,
 
-### Sugestão risoto
+### Sugestão massa
 
-Risoto de lulas e mexilhões com palmito e palha de alho poró R$ 56
+Penne com paleta de cordeiro, pimenta verde e geleia de hortelã R$ 72,
 
 ### Executiva
 
-Filé de sobrecoxa grelhado ao molho bechamel e purê de manjericão R$ 34,
+Paillard de frango empanado com creme de  milho e arroz de alho poró R$ 39,
 
 ### Vegetariana
 
-Farfalle integral com molho suave de queijo, brócolis e tomatinhos grape R$ 36,
+Rostie de baroa recheada com queijo de cabra, ovo  pochê caipira, aioli de espinafre e crispy de alho poró R$ 42,
 
 ### Sobremesa
 
-Vol au vent de peras ao vinho  com nozes confit e flores comestiveis R$ 28,
+Banana split com trio de sorvetes, chantily, crumble de amêndoas e calda de amora R$ 26,
