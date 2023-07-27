@@ -1,32 +1,32 @@
 ---
-title: 13 a 26 de julho de 2023
+title: 27 de julho a 09 de agosto de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Verrine de mandioca com crispy de carne de sol e telha de queijo coalho R$ 18,
+Bolinho de camarão com catupiry ao molho de alho poró R$ 35,
 
-### Sugestão especial (para 2 pessoas)
+### Sugestão especial
 
-Prime Rib suíno com arroz à grega, farofa de linguiça e vinagrete de especiarias R$ 121,
+T-Bone com batatas rústicas, cebolinhas assadas e molho poivre R$ 115,
 
 ### Sugestão peixe
 
-Filé de dourado em crosta de castanhas, musseline de batata roxa e molho de duas passas R$ 79,
+Filé de pescada amarela com arroz de coco e molho de moqueca R$ 89,
 
-### Sugestão pato
+### Sugestão massa
 
-Arroz de pato com tucupi (pimentões coloridos, pimenta de cheiro e castanha do Pará) R$ 65,
+Tagliarini ao bisque de frutos do mar (lula, mexilhão e camarão) R$ 52,
 
 ### Executiva
 
-Parmegiana de frango com batata frita R$ 39,
+Língua ao molho Madeira com purê de batata R$ 32,
 
 ### Vegetariana
 
-Risoto de palmito pupunha com tomate seco e queijo tofu R$ 41,
+Bobó de banana da terra com arroz de brócolis integral R$ 42,
 
 ### Sobremesa
 
-C﻿heesecake de goiabada cascão R$ 19,
+Verrine de chocolate com mousse de maracujá e farofa de castanha R$ 19,
