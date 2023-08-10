@@ -1,32 +1,32 @@
 ---
-title: 27 de julho a 09 de agosto de 2023
+title: 10 de Agosto a 23 de Agosto de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Bolinho de camarão com catupiry ao molho de alho poró R$ 35,
+Creme de aspargos com torradinhas de focaccia R$ 36
 
 ### Sugestão especial
 
-T-Bone com batatas rústicas, cebolinhas assadas e molho poivre R$ 115,
+Salmão no lieto de palmitos grelhados na manteiga ao molho de maracujá com pimenta biquinho R$ 72
 
-### Sugestão peixe
+### Sugestão do Chef
 
-Filé de pescada amarela com arroz de coco e molho de moqueca R$ 89,
+Filé Mignon com vol au vent de fonduta de parmesão e peras ao molho de vinho tinto R$ 70
 
 ### Sugestão massa
 
-Tagliarini ao bisque de frutos do mar (lula, mexilhão e camarão) R$ 52,
+Sorrentino de queijo defumado ao pomodoro com manjericão R$ 42
 
 ### Executiva
 
-Língua ao molho Madeira com purê de batata R$ 32,
+Frango com abacaxi ao curry com arroz integral e farofa de amendoim R$ 36
 
 ### Vegetariana
 
-Bobó de banana da terra com arroz de brócolis integral R$ 42,
+Almondegas de Tempeh ao pomodor e couscous marroquino com frutas secas R$ 42
 
 ### Sobremesa
 
-Verrine de chocolate com mousse de maracujá e farofa de castanha R$ 19,
+Hakuna com sorvete de canela R$ 18
