@@ -1,32 +1,32 @@
 ---
-title: 10 de Agosto a 23 de Agosto de 2023
+title: 24 de Agosto a 06 de setembro de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Creme de aspargos com torradinhas de focaccia R$ 36
+T﻿artare de polvo com pimenta rosa e torrada de focaccia R$ 32,
 
 ### Sugestão especial
 
-Salmão no lieto de palmitos grelhados na manteiga ao molho de maracujá com pimenta biquinho R$ 72
+Entrecote com risoto de parmesão e molho de cogumelos R$ 70,
 
-### Sugestão do Chef
+### Sugestão frutos do mar
 
-Filé Mignon com vol au vent de fonduta de parmesão e peras ao molho de vinho tinto R$ 70
+Camarão (VG e VM - 230g) no coco gratinado R$ 120,
 
-### Sugestão massa
+### Sugestão peixe
 
-Sorrentino de queijo defumado ao pomodoro com manjericão R$ 42
+Filé de peixe com purê de ervilha, chutney de tomate e vinagrete de limão siciliano R$ 89,
 
 ### Executiva
 
-Frango com abacaxi ao curry com arroz integral e farofa de amendoim R$ 36
+Carne de sol acebolada com arroz de leite, feijão verde e queijo coalho R$ 36,
 
 ### Vegetariana
 
-Almondegas de Tempeh ao pomodor e couscous marroquino com frutas secas R$ 42
+Rostie de cenoura recheada com queijo caprino em leito de alface frize R4 26,
 
 ### Sobremesa
 
-Hakuna com sorvete de canela R$ 18
+Eclair banoffe com sorvete de baunilha R$ 18,
