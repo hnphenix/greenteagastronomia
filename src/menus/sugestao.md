@@ -1,32 +1,32 @@
 ---
-title: 24 de Agosto a 06 de setembro de 2023
+title: 08 a 20 de setembro de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-T﻿artare de polvo com pimenta rosa e torrada de focaccia R$ 32,
+Verdes especiais com atum fresco marinado, vagem francesa, ovos de codorna, tomatinhos e azeite de gergelim R$ 36,
 
 ### Sugestão especial
 
-Entrecote com risoto de parmesão e molho de cogumelos R$ 70,
+F﻿ilé à Chateaubriand ao mº Bordelaise com fettuccine Alfredo e farofa de Parma R$ 89,
 
-### Sugestão frutos do mar
+### Sugestão bacalhau
 
-Camarão (VG e VM - 230g) no coco gratinado R$ 120,
+A﻿rroz de bacalhau cremoso com azeitonas azapa, pimenta biquinho e crispy de baroa R$ 68,
 
-### Sugestão peixe
+### Sugestão carne
 
-Filé de peixe com purê de ervilha, chutney de tomate e vinagrete de limão siciliano R$ 89,
+Ragu de cordeiro com risoto de açafrão e hortelã frita R$ 85,
 
 ### Executiva
 
-Carne de sol acebolada com arroz de leite, feijão verde e queijo coalho R$ 36,
+Filé de sobrecoxa empanada com mostarda e mel, creme de espinafre e arroz de brócolis R$ 29,
 
 ### Vegetariana
 
-Rostie de cenoura recheada com queijo caprino em leito de alface frize R4 26,
+Guiosa de beterraba com queijo feta de ovelha, geleia de figo e molho bechamel R$ 65,
 
 ### Sobremesa
 
-Eclair banoffe com sorvete de baunilha R$ 18,
+Creme brulée de limão siciliano R$ 14,
