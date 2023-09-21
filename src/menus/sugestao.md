@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Verdes especiais com atum fresco marinado, vagem francesa, ovos de codorna, tomatinhos e azeite de gergelim R$ 36,
+Salada mexicana com abacate, cebola roxa, tomate cereja, tortilha de milho e vinagrete de pimenta R$ 32
 
 ### Sugestão especial
 
-F﻿ilé à Chateaubriand ao mº Bordelaise com fettuccine Alfredo e farofa de Parma R$ 89,
-
-### Sugestão bacalhau
-
-A﻿rroz de bacalhau cremoso com azeitonas azapa, pimenta biquinho e crispy de baroa R$ 68,
+Polvo crocante com purê de taia e chutney de cebola roxa com manga R$ 120
 
 ### Sugestão carne
 
-Ragu de cordeiro com risoto de açafrão e hortelã frita R$ 85,
+Bombom de alcatra com pera caramelizada, arroz de salsa e molho gorgonzola R$ 79
+
+### Sugestão camarão
+
+R﻿avioli de camarão com catupiry ao molho bisque e amêndoas laminadas R$ 53
 
 ### Executiva
 
-Filé de sobrecoxa empanada com mostarda e mel, creme de espinafre e arroz de brócolis R$ 29,
+Costelinha suína com barbecue de goiaba e batatinha canoa R$ 42
 
 ### Vegetariana
 
-Guiosa de beterraba com queijo feta de ovelha, geleia de figo e molho bechamel R$ 65,
+Estrogonofe de shitake com palmito pupunha, arroz integral e batata palha R$ 32
 
 ### Sobremesa
 
-Creme brulée de limão siciliano R$ 14,
+Moleka de banana com biscoito champagne R$ 16
