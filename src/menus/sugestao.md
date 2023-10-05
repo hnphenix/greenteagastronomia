@@ -1,32 +1,32 @@
 ---
-title: 08 a 20 de setembro de 2023
+title: 05 a 18 de outubro de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Salada mexicana com abacate, cebola roxa, tomate cereja, tortilha de milho e vinagrete de pimenta R$ 32
+Mix de verdes com camarão, abacaxi, pepino agridoce, tomates confit e parmesão R$ 32,00
 
 ### Sugestão especial
 
-Polvo crocante com purê de taia e chutney de cebola roxa com manga R$ 120
+F﻿ilé de pescada amarela com purê rústico de cenoura e manteiga de alcaparras R$ 69,00
 
 ### Sugestão carne
 
-Bombom de alcatra com pera caramelizada, arroz de salsa e molho gorgonzola R$ 79
+Filé mignon em crosta de castanha com batata gratinada e molho parmesão R$ 65,00
 
-### Sugestão camarão
+### Sugestão risoto
 
-R﻿avioli de camarão com catupiry ao molho bisque e amêndoas laminadas R$ 53
+Risoto de alcachofras com tomate seco e queijo camembert R$ 62,00
 
 ### Executiva
 
-Costelinha suína com barbecue de goiaba e batatinha canoa R$ 42
+Galeto recheado com couscous marrroquino, legumes ao alho e molho mostarda e mel R$ 38,00
 
 ### Vegetariana
 
-Estrogonofe de shitake com palmito pupunha, arroz integral e batata palha R$ 32
+Escondidinho de baroa com cogumelos Paris e alho poró R$ 32,00
 
 ### Sobremesa
 
-Moleka de banana com biscoito champagne R$ 16
+Brownie com sorvete de pistache, calda morna e amêndoas R$ 19,00
