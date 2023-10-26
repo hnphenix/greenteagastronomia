@@ -1,32 +1,36 @@
 ---
-title: 05 a 18 de outubro de 2023
+title: 26 de outubro a 085 de novembro de 2023
 tags: menu_special
 permalink: false
 ---
+### P﻿ara compartilhar
+
+Salsichão tipo alemão com pão Hummel e duo de mostardas R$ 37,00
+
 ### E﻿ntrada
 
-Mix de verdes com camarão, abacaxi, pepino agridoce, tomates confit e parmesão R$ 32,00
+Mil folhas de palmito pupunha com atum fresco e molho oriental R$ 29,00
 
 ### Sugestão especial
 
-F﻿ilé de pescada amarela com purê rústico de cenoura e manteiga de alcaparras R$ 69,00
+Arroz de polvo com tomates confit, ervilhas frescas e crispy de baroa R$ 97,00
 
-### Sugestão carne
+### Sugestão kassler
 
-Filé mignon em crosta de castanha com batata gratinada e molho parmesão R$ 65,00
+Kassler com chucrute e purê de maçã R$ 56,00
 
-### Sugestão risoto
+### Sugestão peixe
 
-Risoto de alcachofras com tomate seco e queijo camembert R$ 62,00
+Salmão crocante com ratatuille no perfume de laranja R$ 70,00
 
 ### Executiva
 
-Galeto recheado com couscous marrroquino, legumes ao alho e molho mostarda e mel R$ 38,00
+Língua defumada com molho Madeira e arroz à piamontese R$ 48,00
 
 ### Vegetariana
 
-Escondidinho de baroa com cogumelos Paris e alho poró R$ 32,00
+Involtine de berinjela com ricota, tomate seco e molho sugo R$ 36,00
 
 ### Sobremesa
 
-Brownie com sorvete de pistache, calda morna e amêndoas R$ 19,00
+Creme patisserie com coulis e frutas vermelhas
