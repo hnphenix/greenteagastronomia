@@ -1,36 +1,32 @@
 ---
-title: 26 de outubro a 085 de novembro de 2023
+title: 09 a 22 de novembro de 2023
 tags: menu_special
 permalink: false
 ---
-### P﻿ara compartilhar
-
-Salsichão tipo alemão com pão Hummel e duo de mostardas R$ 37,00
-
 ### E﻿ntrada
 
-Mil folhas de palmito pupunha com atum fresco e molho oriental R$ 29,00
+Patê rústico de carne bovina e suína acompanhado de pão de fermentação natural (5 cereais)  R$ 32,00
 
 ### Sugestão especial
 
-Arroz de polvo com tomates confit, ervilhas frescas e crispy de baroa R$ 97,00
-
-### Sugestão kassler
-
-Kassler com chucrute e purê de maçã R$ 56,00
+Tornedor de mignon ao  molho de cogumelos e peras assadas recheadas com queijo brie R$ 79,00
 
 ### Sugestão peixe
 
-Salmão crocante com ratatuille no perfume de laranja R$ 70,00
+Filé de tilápia em leito de banana da terra grelhada e manteiga de passas com musseline de baroa R$ 65,00
+
+### Sugestão massa
+
+Fettuccine à Puttanesca R$ 42,00
 
 ### Executiva
 
-Língua defumada com molho Madeira e arroz à piamontese R$ 48,00
+Polenta cremosa com ragu de linguiça defumada R$ 36,00
 
 ### Vegetariana
 
-Involtine de berinjela com ricota, tomate seco e molho sugo R$ 36,00
+Risoto de melão confit com queijo tipo camembert, tomatinhos grape e zest de limão siciliano R$ 39,00
 
 ### Sobremesa
 
-Creme patisserie com coulis e frutas vermelhas
+P﻿almier com sorvete de queijo com doce de leite e calda de chocolate R$ 18,00
