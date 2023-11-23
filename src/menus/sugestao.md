@@ -1,32 +1,32 @@
 ---
-title: 09 a 22 de novembro de 2023
+title: 23 de novembro a 06 de dezembro de 2023
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Patê rústico de carne bovina e suína acompanhado de pão de fermentação natural (5 cereais)  R$ 32,00
+Caesar salad de salmão gravlax com croutons de maracujá R$ 42,00
 
 ### Sugestão especial
 
-Tornedor de mignon ao  molho de cogumelos e peras assadas recheadas com queijo brie R$ 79,00
+Medalhão de salmão com risoto de limão siciliano e chutney de tomate agridoce R$ 79,00
 
-### Sugestão peixe
+### Sugestão suino
 
-Filé de tilápia em leito de banana da terra grelhada e manteiga de passas com musseline de baroa R$ 65,00
+Prime rib suíno com salada de batata e molho de vinho do Porto R$ 72,00
 
-### Sugestão massa
+### Sugestão carne
 
-Fettuccine à Puttanesca R$ 42,00
+Entrecôte com legumes assados em alho negro e molho de mostarda anciene R$ 69,00
 
 ### Executiva
 
-Polenta cremosa com ragu de linguiça defumada R$ 36,00
+Filé de sobrecoxa grelhado com farofa de ovos e creme de alho poró R$ 36,00
 
 ### Vegetariana
 
-Risoto de melão confit com queijo tipo camembert, tomatinhos grape e zest de limão siciliano R$ 39,00
+Risoto de abóbora com carne de jaca frita R$ 34,00
 
 ### Sobremesa
 
-P﻿almier com sorvete de queijo com doce de leite e calda de chocolate R$ 18,00
+Carpaccio de abacaxi com sorvete de limão e geleia de hortelã R$ 15,00
