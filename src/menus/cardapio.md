@@ -118,34 +118,32 @@ permalink: false
 
 ### BEBIDAS
 
-* Água c/ gás e s/ gás - R$ 5,50
-* Mate leão - R$ 6,50
-* Refrigerante (lata) - R$ 7,00
-* Água de coco (coco legal) - R$ 9,00
-* Laranja Legal - R$ 9,00
-* Suco Green People - R$ 11,00
+* Água c/ gás e s/ gás - R$ 6,00
+* Mate leão - R$ 7,00
+* Refrigerante (lata) - R$ 7,50
+* Água de coco (coco legal) - R$ 9,50
+* Laranja Legal - R$ 9,50
+* Suco Green People - R$ 11,50
 
 ### CERVEJAS
 
-* Cerveja Therezopolis - R$ 19,00
-* Cerveja Antarctica Original 600 ml - R$ 16,00
-* Cerveja Estrella Galícia 600ml - R$ 15,00
-* Cerveja Amstel (600ml) R$ 16,00
-* C﻿erveja Spaten (600ml) R$ 17,00
-* Cerveja Heineken 600 ml - R$ 17,00
-* Cerveja Becks 600ml - R$ 17,00
-* Cerveja Stella Artois long neck (330ml) - R$ 9,50
-* Cerveja Heineken long neck (330ml) - R$ 10,50
-* Cerveja Becks long neck (330ml) - R$ 10,50
-* Chopp - R$ 10,00
+* Cerveja Therezopolis - R$ 20,00
+* Cerveja Antarctica Original 600 ml - R$ 17,00
+* Cerveja Estrella Galícia 600ml - R$ 16,00
+* Cerveja Amstel (600ml) R$ 17,00
+* Cerveja Heineken 600 ml - R$ 18,00
+* Cerveja Becks 600ml - R$ 18,00
+* Cerveja Stella Artois long neck (330ml) - R$ 10
+* Cerveja Heineken long neck (330ml) - R$ 11
+* Chopp - R$ 10,50
 
 ### DRINKS
 
 * Whisky nacional - R$ 11,00
-* Whisky (importado) 8 anos - R$ 20,00
-* Whisky (importado) 12 anos - R$ 25,00
-* Aperol spritz - R$ 33,00
-* Coquetel de frutas - R$ 18,00
+* Whisky (importado) 8 anos - R$ 21,00
+* Whisky (importado) 12 anos - R$ 26,00
+* Aperol spritz - R$ 35,00
+* Coquetel de frutas - R$ 19,00
 * Dry martini - R$ 20,00
 * Blood mary - R$ 20,00
 * Margarita - R$ 22,00
@@ -153,21 +151,21 @@ permalink: false
 ### CAIPIRINHAS TRADICIONAIS
 
 * Limão, lima ou abacaxi
-* Caipirinha - R$ 15,00 e Salinas - R$ 17,00
-* Caipivodka - R$ 21,00 e Absolut - R$ 26,00
+* Caipirinha - R$ 16,00 e Salinas - R$ 18,00
+* Caipivodka - R$ 22,00 e Absolut - R$ 27,00
 
 ### CAIPIRINHAS ESPECIAIS
 
 * Melancia com maracujá e gengibre
 * Morango com maracujá e manjericão
 * Limão com abacaxi e hortelã
-* Caipirinha R$ 18,00 e Salinas R$ 19,00
-* Caipivodka R$ 23,00 e Absolut R$ 28,00
+* Caipirinha R$ 19,00 e Salinas R$ 20,00
+* Caipivodka R$ 24,00 e Absolut R$ 29,00
 
 ### GIN TÔNICAS
 
-* Águas de verão - Gin Importado com tônica, casca de limão siciliano e casca de tangerina e zimbro R$ 33,00
-* Green Gin - Tônica, chá verde, gengibre e casca de limão siciliano R$ 33,00
-* Tangin - Tônica, tangerina, alecrim e zimbro R$ 33,00
-* Pink Tonic - Tônica, chá de frutas vermelhas, morango fatiado, maracujá e folhas de hortelã R$ 33,00
-* Gin tônica- Tônica, limão e zimbro R$ 30,00
+* Águas de verão - Gin Importado com tônica, casca de limão siciliano e casca de tangerina e zimbro R$ 35,00
+* Green Gin - Tônica, chá verde, gengibre e casca de limão siciliano R$ 35,00
+* Tangin - Tônica, tangerina, alecrim e zimbro R$ 35,00
+* Pink Tonic - Tônica, chá de frutas vermelhas, morango fatiado, maracujá e folhas de hortelã R$ 35,00
+* Gin tônica- Tônica, limão e zimbro R$ 31,00
