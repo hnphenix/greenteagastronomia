@@ -1,32 +1,28 @@
 ---
-title: 23 de novembro a 06 de dezembro de 2023
+title: 07 de dezembro a 10 de janeiro de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Caesar salad de salmão gravlax com croutons de maracujá R$ 42,00
+Mix de verdes com aspargo branco, alcachofra, azeitonas e lascas de parmesão R$ 39,00
 
 ### Sugestão especial
 
-Medalhão de salmão com risoto de limão siciliano e chutney de tomate agridoce R$ 79,00
-
-### Sugestão suino
-
-Prime rib suíno com salada de batata e molho de vinho do Porto R$ 72,00
+Atum selado na crosta de gergelim ocm legumes salteados no wassabi e molho oriental R$ 78,00
 
 ### Sugestão carne
 
-Entrecôte com legumes assados em alho negro e molho de mostarda anciene R$ 69,00
+Tornedor de mignon ao molho de tamarindo e risoto de brie R4 74,00
 
 ### Executiva
 
-Filé de sobrecoxa grelhado com farofa de ovos e creme de alho poró R$ 36,00
+Paillard de frango com fettuccine na manteiga de sálvia e tomate seco R$ 39,00
 
 ### Vegetariana
 
-Risoto de abóbora com carne de jaca frita R$ 34,00
+Ceviche de palmito pupunha com cogumelo parisiense, cebola roxa, milho assado, pimenta biquinho e quinoa frita R4 32,00
 
 ### Sobremesa
 
-Carpaccio de abacaxi com sorvete de limão e geleia de hortelã R$ 15,00
+Hakuna com sorvete de banilha R$ 16,00
