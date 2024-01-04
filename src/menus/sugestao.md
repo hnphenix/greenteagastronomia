@@ -1,28 +1,32 @@
 ---
-title: 07 de dezembro a 10 de janeiro de 2024
+title: 04 a 17 de janeiro de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Mix de verdes com aspargo branco, alcachofra, azeitonas e lascas de parmesão R$ 39,00
+Burrata gratinada em molho de tomates frescos, torradas de focaccia na manteiga de ervas R$ 62,00
 
 ### Sugestão especial
 
-Atum selado na crosta de gergelim ocm legumes salteados no wassabi e molho oriental R$ 78,00
+Bacalhau gratinado com creme de alho poró, arroz de amêndoas e batatinhas calabresas assadas R$ 150,00
 
 ### Sugestão carne
 
-Tornedor de mignon ao molho de tamarindo e risoto de brie R4 74,00
+Filé mignon em crosta de Parma, batatas folhadas recheadas com queijo emental e molho de mostarda em grãos R$ 78,00
+
+### Sugestão massa
+
+Ravioli de camarão com chutney de abacaxi e molho curry R$ 54,00
 
 ### Executiva
 
-Paillard de frango com fettuccine na manteiga de sálvia e tomate seco R$ 39,00
+Tender fatiado com purê de maçã e redução de vinho tinto R$ 40,00
 
 ### Vegetariana
 
-Ceviche de palmito pupunha com cogumelo parisiense, cebola roxa, milho assado, pimenta biquinho e quinoa frita R4 32,00
+Gratin de brócolis americano com queijo caprino, salada de rúcula e tomate cereja R4 44,00
 
 ### Sobremesa
 
-Hakuna com sorvete de banilha R$ 16,00
+Tartar de frutas com sorvete de manga e calda de amora R$ 22,00
