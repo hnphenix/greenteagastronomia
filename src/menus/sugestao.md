@@ -1,32 +1,34 @@
 ---
-title: 04 a 17 de janeiro de 2024
+title: " 18 a 31 de janeiro de 2024"
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Burrata gratinada em molho de tomates frescos, torradas de focaccia na manteiga de ervas R$ 62,00
+Mix de folhas especiais com trio de queijos, nuts caramelizados e molho de iogurte com mel R$ 29,
 
 ### Sugestão especial
 
-Bacalhau gratinado com creme de alho poró, arroz de amêndoas e batatinhas calabresas assadas R$ 150,00
+Filé de namorado em leito de espinafre com musseline de batata doce roxa R$ 104,
+
+### Sugestão frutos do mar
+
+Pappardelle com frutos do mar R$ 52,
 
 ### Sugestão carne
 
-Filé mignon em crosta de Parma, batatas folhadas recheadas com queijo emental e molho de mostarda em grãos R$ 78,00
-
-### Sugestão massa
-
-Ravioli de camarão com chutney de abacaxi e molho curry R$ 54,00
+Entrecote com cogumelos salteados e batata rústica trufada com nuvem de parmesão R$ 67,00
 
 ### Executiva
 
-Tender fatiado com purê de maçã e redução de vinho tinto R$ 40,00
+Filé de frango em crosta de mostarda e arroz de brócolis 
+
+R$ 29,         
 
 ### Vegetariana
 
-Gratin de brócolis americano com queijo caprino, salada de rúcula e tomate cereja R4 44,00
+Gnocchi de banana da terra com ragu de shitake e tomatinhos grape R$ 34,
 
 ### Sobremesa
 
-Tartar de frutas com sorvete de manga e calda de amora R$ 22,00
+Cheesecake de maracujá R$ 17,
