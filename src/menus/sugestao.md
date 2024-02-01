@@ -9,7 +9,7 @@ S﻿alada Niçoise (atum, ovos, vagem, cebola roxa, azeitona e pimentões) R$ 27
 
 ### Sugestão especial
 
-Fran rack ao molho Bordelaise com risoto de funghi e bacon R$ 110,00
+Fran rack ao molho Bordelaise com risoto de funghi e bacon R$ 120,00
 
 ### Sugestão peixe
 
