@@ -5,30 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Mix de folhas especiais com trio de queijos, nuts caramelizados e molho de iogurte com mel R$ 29,
+S﻿alada Niçoise (atum, ovos, vagem, cebola roxa, azeitona e pimentões) R$ 27
 
 ### Sugestão especial
 
-Filé de namorado em leito de espinafre com musseline de batata doce roxa R$ 104,
+Fran rack ao molho Bordelaise com risoto de funghi e bacon R$ 110,00
 
-### Sugestão frutos do mar
+### Sugestão peixe
 
-Pappardelle com frutos do mar R$ 52,
+Papilote de salmão com molho antibiose e aroz de jasmim com capim limão R$ 74
 
 ### Sugestão carne
 
-Entrecote com cogumelos salteados e batata rústica trufada com nuvem de parmesão R$ 67,00
+Tornedor de mignon ao Poivr com paglia e fieno salteado no azeite com tomate seco e aspargos R$ 72,00
 
 ### Executiva
 
-Filé de frango em crosta de mostarda e arroz de brócolis 
+Churrasquinho misto com farofa de ovos, arroz à grega e molho de vinagrete R$ 36,00
 
-R$ 29,         
+### **Vegetariana**
 
-### Vegetariana
-
-Gnocchi de banana da terra com ragu de shitake e tomatinhos grape R$ 34,
+Steak tartare vegano com chips de batata doce R$ 21,00
 
 ### Sobremesa
 
-Cheesecake de maracujá R$ 17,
+Sorvete de doce de leite com queijo, calda de morango e crumble de amêndoas R$ 19,00
