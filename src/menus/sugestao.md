@@ -1,32 +1,32 @@
 ---
-title: " 18 a 31 de janeiro de 2024"
+title: " 22 de fevereiro a 06 de março de 2024"
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-S﻿alada Niçoise (atum, ovos, vagem, cebola roxa, azeitona e pimentões) R$ 27
+Mix de folhas especiais com queijo brie, shitake, pétalas de cebola roxa assadas, tomatinhos grape e vinagrete de especiarias R$ 30,
 
 ### Sugestão especial
 
-Fran rack ao molho Bordelaise com risoto de funghi e bacon R$ 120,00
+Risoto nero com camarões, manga confit, queijo mascarpone e ninho de alho de póró R$ 62,
 
 ### Sugestão peixe
 
-Papilote de salmão com molho antibiose e aroz de jasmim com capim limão R$ 74
+Filé de tilápia em crosta de castanha com purê de banana da terra e chutney de tomate agridoce R$ 68,
 
 ### Sugestão carne
 
-Tornedor de mignon ao Poivr com paglia e fieno salteado no azeite com tomate seco e aspargos R$ 72,00
+Medalhão de mignon com rostie de aipim, queijo e bacon e molho de mostarda anciene R$ 69,
 
 ### Executiva
 
-Churrasquinho misto com farofa de ovos, arroz à grega e molho de vinagrete R$ 36,00
+Escalopinho de carne ao molho gorgonzola com arroz maluco e fritas R$ 45,
 
 ### **Vegetariana**
 
-Steak tartare vegano com chips de batata doce R$ 21,00
+Crepe de espinafre com ragu de lentilhas, perfume de parmesão e legumes assados R$ 34,
 
 ### Sobremesa
 
-Sorvete de doce de leite com queijo, calda de morango e crumble de amêndoas R$ 19,00
+Abacaxi caramelado no mel de laranjeira com sorvete de coco R$ 20,
