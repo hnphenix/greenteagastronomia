@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Verdes especiais, tangerina, rabanete, cebola roxa, tomatinhos cereja e croutons R$ 24,00
+Verdes especiais com peras ao vinho, gorgonzola e nozes caramelizadas R$29
 
 ### Sugestão especial
 
-Filé mignon com presunto alemão defumado, molho de tamarindo e risoto de grana padano R$ 79,00
+Medalhão de salmão com manteiga de aneto e risoto de cogumelos frescos R$ 89
 
-### Sugestão peixe
+### Sugestão carne
 
-Filé de dourado com molho de moqueca capixaba, arroz de coco, farofa de amendoim e crispy de couve R$ 75,00
+Contra filé acebola com batata canoa e arroz de brócolis R$59
 
-### Sugestão suíno
+### Sugestão massa
 
-Prime ribe suíno com salada de batata e  maionese temperada ao molho chimichurri R$ 64,00
+Fettucine à Carbonara R$ 42
 
 ### Executiva
 
-Filé de sobrecoxa ao molho suave de queijo, farofa de ovos e batata frita R$ 40,00
+Saltibomca de frango com presunto, cream cheese e purê de manjericão R$ 34
 
 ### **Vegetariana**
 
-Fritada de arroz integral e legumes, queijo meia cura e saladinha verde R$ 29,00
+Polpetone de lentilha recheado com queijo pecorino, molho pomodoro e espaguete de arroz R$ 30
 
 ### Sobremesa
 
-Profiterolis com sorvete de creme e calda morna de chocolate R$ 19,00
+S﻿trudel de banana com sorvete de canela R$20
