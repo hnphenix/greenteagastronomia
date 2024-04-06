@@ -13,7 +13,7 @@ Medalhão de salmão com manteiga de aneto e risoto de cogumelos frescos R$ 89
 
 ### Sugestão carne
 
-Contra filé acebolo com batata canoa e arroz de brócolis R$59
+Contra filé acebolado com batata canoa e arroz de brócolis R$59
 
 ### Sugestão massa
 
