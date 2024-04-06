@@ -13,7 +13,7 @@ Medalhão de salmão com manteiga de aneto e risoto de cogumelos frescos R$ 89
 
 ### Sugestão carne
 
-Contra filé acebola com batata canoa e arroz de brócolis R$59
+Contra filé acebolo com batata canoa e arroz de brócolis R$59
 
 ### Sugestão massa
 
@@ -21,7 +21,7 @@ Fettucine à Carbonara R$ 42
 
 ### Executiva
 
-Saltibomca de frango com presunto, cream cheese e purê de manjericão R$ 34
+Saltimboca de frango com presunto, cream cheese e purê de manjericão R$ 34
 
 ### **Vegetariana**
 
