@@ -1,32 +1,32 @@
 ---
-title: 21 de março a 03 de abril de 2024
+title: 18 de abril a 08 de maio de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Verdes especiais com peras ao vinho, gorgonzola e nozes caramelizadas R$29
+Carpaccio de salmão ao vinagrete de pimenta rosa com zest de limão siciliano e torradas de focaccia R$ 46,
 
 ### Sugestão especial
 
-Medalhão de salmão com manteiga de aneto e risoto de cogumelos frescos R$ 89
+Filé chateaubriand (300g) ao molho bernaise e risoto de funghi trufado R$ 90,
+
+### Sugestão peixe
+
+Filé de peixe com musseline de batata doce roxa ao moho de camarões flambados em vinho branco R$ 89,
 
 ### Sugestão carne
 
-Contra filé acebolado com batata canoa e arroz de brócolis R$59
-
-### Sugestão massa
-
-Fettucine à Carbonara R$ 42
+Ragu de ossobuco com polenta mole de queijo e agrião R$ 58,
 
 ### Executiva
 
-Saltimboca de frango com presunto, cream cheese e purê de manjericão R$ 34
+Galeto (1/2) assado em crosta de mostarda com creme de milho e arroz à grega R$ 40,
 
 ### **Vegetariana**
 
-Polpetone de lentilha recheado com queijo pecorino, molho pomodoro e espaguete de arroz R$ 30
+Empadão de grão de bico com palmito pupunha e alho poró R$ 38,
 
 ### Sobremesa
 
-S﻿trudel de banana com sorvete de canela R$20
+Creme brulee R$ 16,00
