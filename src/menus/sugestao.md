@@ -1,32 +1,32 @@
 ---
-title: 18 de abril a 08 de maio de 2024
+title: 23 de maio a 05 de junho de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Salada de outono com folhas variadas, shitake e shimeji refogados, nozes, lascas de parmesão e vinagrete de Dijon R$26
+M﻿ix de folhas verdes especiais com pipoca de camarão, abacaxi confit, pimenta doce e vinagrete cítrico R$ 38
 
 ### Sugestão especial
 
-Filé de dourado com palmito pupunha assado na manteiga clarificada e molho de azedinha R$92
+Tornedor de  mignon ao molho de vinho do Porto e fettuccine com cogumelos Paris R$ 76
 
-### Sugestão carne
+### Sugestão peixe
 
-Tornedor de mignon ao molho poivre com legumes salteados em alho negro R$76
+Filé de tilápia em crosta de coco com arroz cremoso de açafrão e chutney de tomate agridoce R$ 68
 
-### Sugestão risoto
+### Sugestão massa
 
-Risoto de brie com presunto Parma (Jamon Serrano) e rúculas orgânicas R$62
+Gnocchi de mandioquinha com ragu de carne de sol e crocante de tapioca na manteiga de garrafa R$ 54
 
 ### Executiva
 
-Picanha suína com arroz de linguiça e molho de rapadura R$58
+F﻿ilé de sobrecoxa grelhada com salada caprese R$ 40
 
 ### **Vegetariana**
 
-S﻿orrentino de damasco com ricota e molho suave de queijo R$59
+Involtine de berinjela recheado com ricota, nozes e cebola caramelada ao molho pomodoro R$ 39
 
 ### Sobremesa
 
-Sorvete de coco com ganache de chocolate e crumble de castanha do Pará R$20
+Pudim Romeu e Julieta R$ 16
