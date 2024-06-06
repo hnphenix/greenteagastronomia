@@ -1,32 +1,32 @@
 ---
-title: 23 de maio a 05 de junho de 2024
+title: 06 a 19 de junho de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-M﻿ix de folhas verdes especiais com pipoca de camarão, abacaxi confit, pimenta doce e vinagrete cítrico R$ 38
+M﻿ix de folhas especiais com peras confitadas e mel de laranjeira, queijo camembert e tomatinhos agridoce R$ 30,
 
 ### Sugestão especial
 
-Tornedor de  mignon ao molho de vinho do Porto e fettuccine com cogumelos Paris R$ 76
+Salmão com musseline de maçã vermelha e chutney de cebolas no cassis R$ 86,
 
-### Sugestão peixe
+### Sugestão carne
 
-Filé de tilápia em crosta de coco com arroz cremoso de açafrão e chutney de tomate agridoce R$ 68
+Filé mignon na fonduta de parmesão, perfume de alecrim e rostie de batata doce R$ 69,
 
-### Sugestão massa
+### Sugestão risoto
 
-Gnocchi de mandioquinha com ragu de carne de sol e crocante de tapioca na manteiga de garrafa R$ 54
+Riso nero com camarões médios, ervilhas frescas, alho poró e abacaxi grelhado R$ 70,
 
 ### Executiva
 
-F﻿ilé de sobrecoxa grelhada com salada caprese R$ 40
+Contra filé à Oswaldo Aranha com farofa de ovos e batatas prussianas R$ 48,
 
 ### **Vegetariana**
 
-Involtine de berinjela recheado com ricota, nozes e cebola caramelada ao molho pomodoro R$ 39
+Anello (massa de batata doce roxa) recheado com queijos, moho de uvas e nozes caramelizadas R$ 60,
 
 ### Sobremesa
 
-Pudim Romeu e Julieta R$ 16
+Brownie com sorvete de pistache, calda morna de chocolate e cubinhos de morangos R4 26,
