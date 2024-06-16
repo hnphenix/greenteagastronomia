@@ -25,8 +25,8 @@ Contra filé à Oswaldo Aranha com farofa de ovos e batatas prussianas R$ 48,
 
 ### **Vegetariana**
 
-Anello (massa de batata doce roxa) recheado com queijos, moho de uvas e nozes caramelizadas R$ 60,
+Anello (massa de batata doce roxa) recheado com queijos, molho de uvas e nozes caramelizadas R$ 60,
 
 ### Sobremesa
 
-Brownie com sorvete de pistache, calda morna de chocolate e cubinhos de morangos R4 26,
+Brownie com sorvete de pistache, calda morna de chocolate e cubinhos de morangos R$ 26,
