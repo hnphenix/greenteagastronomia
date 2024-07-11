@@ -1,32 +1,32 @@
 ---
-title: 20 de junho a 10 de julho de 2024
+title: 11 a 24 de julho de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Vichyssoise de palmito com farofinha de Parma e torradas de focaccia R$ 28,
+Salada Mediterrânea com burrata e pesto de manjericão fresco R$ 52,
 
 ### Sugestão especial
 
-F﻿ran rack de cordeiro com risoto de brie e coulis de  menta R$ 98,
+Lombo de atum em crosta de gergelim ao molho oriental e espaguete de legumes salteados no tonkatsu R$ 80,
 
 ### Sugestão carne
 
-Arroz de rabada com agrião R$ 54,
+Filé mignon ao vinho do Porto com vol au vent recheado de cogumelos Parisienses R$ 79,
 
-### Sugestão camarão
+### Sugestão frutos do mar
 
-Camarão gratinado com catupiry, baroa, banana frita e ninho de alho poró R$ 62,
+Pappardelle ao Pescatore (camarão , lula, peixe e vôngole) R$ 58,
 
 ### Executiva
 
-Galeto (1/2) com vinagrete de tomate, batata noisette e creme de espinafre R$ 44,
+Carne seca acebolada com purê de abóbora e dadinho de queijo coalho R$ 52,
 
 ### **Vegetariana**
 
-Agnolotti de burrata com limão ao vinagrete de iogurte com hortelã R$ 60,
+Rostie de mandioquinha com ovo pochê caipira, aioli de espinafre e crispy de couve R$ 46,
 
 ### Sobremesa
 
-Banana frita com sorvete de canela R$ 22,
+Pudim de tapioca com calda de laranja R$ 15,
