@@ -5,7 +5,7 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Salada Mediterrânea com burrata e pesto de manjericão fresco R$ 52,
+Salada Medfiterrânea com burrata e pesto de manjericão fresco R$ 52,ff
 
 ### Sugestão especial
 
