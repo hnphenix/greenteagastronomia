@@ -5,28 +5,28 @@ permalink: false
 ---
 ### E﻿ntrada
 
-Salada Medfiterrânea com burrata e pesto de manjericão fresco R$ 52,ff
+Mix de folhas especiais com presunto Parma, búfala, tomate seco e vinagrete de dijon R$ 29
 
 ### Sugestão especial
 
-Lombo de atum em crosta de gergelim ao molho oriental e espaguete de legumes salteados no tonkatsu R$ 80,
+Bacalhau NAlagoa (bacalhau cremoso com alho poró, maçã confit, crispy de mandioquinhas) R$ 110
 
 ### Sugestão carne
 
-Filé mignon ao vinho do Porto com vol au vent recheado de cogumelos Parisienses R$ 79,
+M﻿edalhão de filé ao molho quatroq ueijos com batatas rústicas assadas no alecrim levemente trufadas R$ 79,00
 
-### Sugestão frutos do mar
+### Sugestão peixe
 
-Pappardelle ao Pescatore (camarão , lula, peixe e vôngole) R$ 58,
+Filé de tilápia em crosta de castanha, purê de banana da terra e chutney de tomate agridoce R$59
 
 ### Executiva
 
-Carne seca acebolada com purê de abóbora e dadinho de queijo coalho R$ 52,
+Escalopinho de carne ao molho roti com creme de milho e arroz de brócolis R$ 55
 
 ### **Vegetariana**
 
-Rostie de mandioquinha com ovo pochê caipira, aioli de espinafre e crispy de couve R$ 46,
+Polenta de milho com queijo, ragu de cogumelos e farofa de nozes R$39
 
 ### Sobremesa
 
-Pudim de tapioca com calda de laranja R$ 15,
+Mousse de chocolate com coulis de frutas vermelhas R$22
