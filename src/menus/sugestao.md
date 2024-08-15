@@ -1,32 +1,32 @@
 ---
-title: 01 a 14 de Agosto de 2024
+title: 15 a 28 de agosto de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Mix de folhas especiais com presunto Parma, búfala, tomate seco e vinagrete de dijon R$ 29
+Salada de rúcula com queijo brie empanado, geleia de pimenta e melão confit R$ 34,
 
 ### Sugestão especial
 
-Bacalhau NAlagoa (bacalhau cremoso com alho poró, maçã confit, crispy de mandioquinhas) R$ 110
+Haddock confitado com maçã verde, passas, amêndoas e pimenta de cheiro com arroz jasmim R$ 98,
 
 ### Sugestão carne
 
-M﻿edalhão de filé ao molho quatroq ueijos com batatas rústicas assadas no alecrim levemente trufadas R$ 79,00
+Tornedor de filé mignon com legumes salteados em alho negro ao molho de tamarindo R$ 82,
 
-### Sugestão peixe
+### Sugestão camarão
 
-Filé de tilápia em crosta de castanha, purê de banana da terra e chutney de tomate agridoce R$59
+Riso  nero com camarões médios flambados no conhaque e chutney de abacaxi R$ 79,
 
 ### Executiva
 
-Escalopinho de carne ao molho roti com creme de milho e arroz de brócolis R$ 55
+M﻿edalhão de sobrecoxa com abóbora assada ao molho suave de queijo R$ 36,
 
 ### **Vegetariana**
 
-Polenta de milho com queijo, ragu de cogumelos e farofa de nozes R$39
+A﻿gnolotti de burrata com limão siciliano, molho pesto de rúcula e hortelã e farofa de nozes R$ 59,
 
 ### Sobremesa
 
-Mousse de chocolate com coulis de frutas vermelhas R$22
+Tartar de frutas com sorvete de yogurte siciliano e redução de licor de cassis R$ 26,
