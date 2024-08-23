@@ -25,7 +25,7 @@ M﻿edalhão de sobrecoxa com abóbora assada ao molho suave de queijo R$ 36,
 
 ### **Vegetariana**
 
-A﻿gnolotti de burrata com limão siciliano, molho pesto de rúcula e hortelã e farofa de nozes R$ 59,
+S﻿orrentino de damasco ao molho suave de queijos R$59
 
 ### Sobremesa
 
