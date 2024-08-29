@@ -1,32 +1,32 @@
 ---
-title: 15 a 28 de agosto de 2024
+title: 29 de agosto a 11 de setembro de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Salada de rúcula com queijo brie empanado, geleia de pimenta e melão confit R$ 34,
+Verdes especiais com atum selado, sunomomo, tomatinhos grape e redução de balsâmico R$ 24,
 
 ### Sugestão especial
 
-Haddock confitado com maçã verde, passas, amêndoas e pimenta de cheiro com arroz jasmim R$ 98,
+Arroz caldoso de pato com linguiça defumada, azeitonas e crispy de cebola roxa R$ 92,
 
 ### Sugestão carne
 
-Tornedor de filé mignon com legumes salteados em alho negro ao molho de tamarindo R$ 82,
+Medalhão de filé ao molho de açai com risoto de grana padano R$ 72,
 
-### Sugestão camarão
+### Sugestão peixe
 
-Riso  nero com camarões médios flambados no conhaque e chutney de abacaxi R$ 79,
+Filé de namorado em crosta de coco com arroz de tucupi, camarões e castanha do Pará  - R$ 89,
 
 ### Executiva
 
-M﻿edalhão de sobrecoxa com abóbora assada ao molho suave de queijo R$ 36,
+Contra-filé ao beurre noisette de alho, batata prussiana e farofa de ovos R$ 60,
 
 ### **Vegetariana**
 
-S﻿orrentino de damasco ao molho suave de queijos R$59
+Almôndegas de grão de bico com espaguete zero glúten, e molho de tomates frescos R$ 26,
 
 ### Sobremesa
 
-Tartar de frutas com sorvete de yogurte siciliano e redução de licor de cassis R$ 26,
+Profiterolis com sorvete de doce de leite e calda morna de chocolate R$ 19,
