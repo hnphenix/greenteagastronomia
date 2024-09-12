@@ -112,7 +112,7 @@ permalink: false
 ### CAFÉ E CHÁ
 
 * Chá - R$ 5,00
-* Café expresso - R$ 6,00
+* Café expresso - R$ 6,50
 * Capuccino - R$ 7,00
 * Café descafeinado - R$ 9,00
 
