@@ -1,32 +1,32 @@
 ---
-title: 12 a 25 de setembro de 2024
+title: 03 a 16 de outubro de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Steak tartar do chef com batata canoa trufada R$ 36,
+Salada tropical com camarões, manga grelhada, castanha de caju e vinagrete de especiarias R$ 39,
 
 ### Sugestão especial
 
-Pappardelle de camarão VM com abacaxi confit e perfume de limão siciliano R$ 89,
+Polvo grelhado na páprica defumada com risoto de limão siciliano e chutney de cebola roxa R$ 99,
+
+### Sugestão do chef
+
+Ossobuco em redução de vinho tinto com aligot e echalotes agridoce R$ 92,
 
 ### Sugestão carne
 
-Risoto de funghi com tiras de mignon e crocante de parmesão R$ 65,
-
-### Sugestão peixe
-
-Filé de tilápia com banana assada, purê de mandioquinha e molho duas passas R$ 69,
+Entrecôte com molho mostarda anciene e rosti de mandioquinha recheada de shiitake R$ 79,
 
 ### Executiva
 
-1/2 Galeto em crosta de mostarda com arroz à grega e farofa de bacon R$ 42,
+Paillard de frango empanado com fettuccine ao Beure noisette de sálvia e tomate seco R$ 39,
 
 ### **Vegetariana**
 
-Ceviche de palmito pupunha com cogumelos parisiense, cebola roxa, milho assado, pimenta biquinho e quinoa frita R$ 32,
+Ravioli verde de ricota com molho cremoso de alho poró e nozes caramelizadas R$ 38,
 
 ### Sobremesa
 
-Cheesecake de maracujá refrescante R$ 18,
+Tiramisù R$ 18,
