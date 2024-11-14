@@ -1,32 +1,32 @@
 ---
-title: 31 de outubro a 13 de novembro de 2024
+title: 14 a 27 de novembro de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Mix de folhas especiais com trio de queijos, nuts caramelizadas e molho de iogurte e mel R$ 32,
+Ceviche refrescante (peixe branco, suco de manga, pimenta rosa, cebola roxa, quinoa frita e chips de batata doce) R$ 37,
 
 ### Sugestão especial
 
-Filé de dourado com arroz de capim limão, molho de moqueca baiana e farofa de castanha R$ 84,
+Paleta de cordeiro desossada com purê de mandioquinha e farofa de pistache R$ 110,
 
 ### Sugestão carne
 
 Filé mignon ao vinho do Porto com risoto de açafrão da terra e telha de parmesão R$ 79,
 
-### Sugestão frutos do mar
+### Sugestão massa
 
-Pappardelle al mare (lula, polvo, camarão e vôngole) R$ 58,
+Fettuccine à Carbonara com crispy de carne seca R$ 52,
 
 ### Executiva
 
-Costelinha suína com barbecue de goiaba e batas rústicas assadas no sal grosso e alecrim R$ 39,
+Filé de sobrecoxa em crosta de espinafre com creme de milho e arroz de salsa R$ 39,
 
 ### **Vegetariana**
 
-Gnocchi de milho verde com ragu de cogumelos trufados R$ 38,
+Involtini de berinjela recheado de queijo camembert e molho pomodoro R$ 40,
 
 ### Sobremesa
 
-Creme brûlée R$ 18,
+Abacaxi caramelado no mel de laranjeira com sorvete de creme e flor de physalis R$ 22,
