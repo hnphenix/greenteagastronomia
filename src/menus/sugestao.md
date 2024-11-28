@@ -1,32 +1,32 @@
 ---
-title: 14 a 27 de novembro de 2024
+title: 28 de novembro a 11 de dezembro de 2024
 tags: menu_special
 permalink: false
 ---
 ### E﻿ntrada
 
-Ceviche refrescante (peixe branco, suco de manga, pimenta rosa, cebola roxa, quinoa frita e chips de batata doce) R$ 37,
+Tartar de haddock com maçã verde, trio de chips e vinagrete de aneto com pimenta rosa R$ 49,00
 
 ### Sugestão especial
 
-Paleta de cordeiro desossada com purê de mandioquinha e farofa de pistache R$ 110,
+Tornedor de filé (300g) em crosta de cogumelos com molho bordelaise e gallete de batata com  parmesão R$ 90,00
 
-### Sugestão carne
+### Sugestão frutos do mar
 
-Filé mignon ao vinho do Porto com risoto de açafrão da terra e telha de parmesão R$ 79,
+Riso nero com lulas recheadas de shimegi e cream cheese R$ 75,00
 
-### Sugestão massa
+### Sugestão peixe
 
-Fettuccine à Carbonara com crispy de carne seca R$ 52,
+Salmão em crosta de gergelim com espaguete de cenoura, baroa, nirá, broto de feijão ao molho oriental R$ 72,00
 
 ### Executiva
 
-Filé de sobrecoxa em crosta de espinafre com creme de milho e arroz de salsa R$ 39,
+Carne seca acebolada com musseline de abóbora moranga e dadinho de queijo coalho R$ 52,00
 
 ### **Vegetariana**
 
-Involtini de berinjela recheado de queijo camembert e molho pomodoro R$ 40,
+Quiche de aspargos frescos com saladinha de espinafre, tomatinhos assados, croutons e vinagrete de limão R$ 49,00
 
 ### Sobremesa
 
-Abacaxi caramelado no mel de laranjeira com sorvete de creme e flor de physalis R$ 22,
+Bolo de aipim com sorvete de doce de leite e crocante de tapioca R$ 18,00
